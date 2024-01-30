@@ -63,28 +63,33 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 
 <h2> 🤳 Data Analytics & Visualization Project Examples</h2>
 
-COVID-19 Rates Dashboard.
+[SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
+<br />
+<br />
+
+<h4> COVID-19 Rates Dashboard. </h4>
 
 - Quantified COVID-19 vaccination rates over time, by country, and by income group; published a Tableau dashboard to visualize results.
 
-Product Revenue Dashboard.
+<h4> Product Revenue Dashboard. </h4>
 
-- Identified the lowest and highest of stores' sales rates, quantified product revenue, and average revenue by account.
+- Identified the lowest and highest of stores' sales rates, quantifying both product revenue and average revenue by account.
 
 - Published Tableau dashboard to track KPIs.
 
-Superstore Sales and Profitability Executive Dashboard.
+<h4> Superstore Sales and Profitability Executive Dashboard. </h4>
 
 - Quantified sales, profitability, profit ratio, and sales per customer. Visualized profit ratio by city on US map.
 - Distributed monthly sales by segment and category, over time, by profitable vs. unprofitable orders.
 
-Electronic Store Database Design.
+<h4> Electronic Store Database Design. </h4>
 
 - eCommerce store database design in SQL; analyzed product stats.
 
-Chinook Business Intelligence.
+<h4> Chinook Business Intelligence. </h4>
 
 - Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents.
+<br />
 
 <h2>👨‍💻 Supplemental Training</h2>
 
