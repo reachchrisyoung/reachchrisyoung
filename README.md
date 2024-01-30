@@ -1,7 +1,20 @@
-<h1>Hi, I'm Chris! <a href="https://www.linkedin.com/in/reachchrisyoung/"> </a>
+<h1>Hi, I'm Chris! <a href="https://www.linkedin.com/in/reachchrisyoung/"> </a> </h1>
+SEO / Lead Generation professional of 20 years with 10 years experience in Physical and Information Security, leading teams in blog writing, information and asset security, operations, research, and training.  Seeking Cyber Threat Intel roles - Remote.
+
+<h2>📜 Cybersecurity Certifications & Training</h2>
+
+- ISC2 | [Certified in Cybersecurity (CC)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/)
+- ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/)
+- IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/)
+- Qualys | [Vulnerability Management, Detection, and Response](https://www.linkedin.com/in/reachchrisyoung/details/certifications/)
+- Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/)
+- XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reachchrisyoung/details/certifications/)
+- HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/)
+- Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/)
+- Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/)
+<br />
 
 <h2>👨‍💻 Information Security Projects:</h2>
-
 <h3> Home Labs </h3>
 
 - <ins>Current Project</ins> | <b><i>(Write Up: Coming Soon)</b></i>
@@ -12,6 +25,7 @@
 
 - VMWare Web App Vulnerability and Pentesting Lab <b><i>(Write Up: Coming Soon)</b></i>
   + Setup WordPress range across 3 VMs and local host using L.A.M.P.
+<br />
 
 <h3> Governance, Risk, and Compliance (GRC) Projects: </h3>
 
