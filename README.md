@@ -1,5 +1,10 @@
 <h1>Hi, I'm Chris! <a href="https://www.linkedin.com/in/reachchrisyoung/"> </a>
 
+<h2>👨‍💻 Governance, Risk, and CompliaRC Projects:</h2>
+
+- [GRC Compliance & Audit](https://github.com/reachchrisyoung/GRC-Compliance-Audit) <b><i>(GRC)</b></i>
+- [Risk Assessment](https://github.com/reachchrisyoung/GRC-Risk-Assessment) <b><i>(GRC)</b></i>
+
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
 - [Helpdesk 1](Link)
@@ -25,6 +30,6 @@
 [<img align="left" alt="yourname | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
+[youtube]: https://www.youtube.com/reachchrisyoung
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/
