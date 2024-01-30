@@ -16,7 +16,6 @@ HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchris
 Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i> <br />
 ARMA International | Avoiding Common Mistakes in Electronic Records Management <b><i>- D. Gearhart, Ph.D</b></i> <br />
-<br />
 
 <h2>🛡️ Information Security Projects</h2>
 <h3> Home Labs </h3>
