@@ -3,7 +3,7 @@ SEO / Lead Generation professional of 20 years with 10 years of experience in Ph
 
 <h2>📜 Certifications & Training</h2>
 
-<b><i>(Testing: 2/15/2024)</b></i> CompTIA | Network+
+<b><i>(Testing: 2/15/2024)</b></i> CompTIA | Network+ <br />
 ISC2 | [Certified in Cybersecurity (CC)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/) <br />
