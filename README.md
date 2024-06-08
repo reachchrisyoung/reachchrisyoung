@@ -17,50 +17,6 @@ XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reach
 Simply Cyber | [The Definitive GRC Analyst Masterclass](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 
-
-<h2>🛡️ Information Security Projects</h2>
-<h3> Home Labs </h3>
-
-<ins><b>Current Project</b></ins> | <b><i>(Write Up: Coming Soon)</b></i>
-
-- Launching Wazuh SIEM/XDR with TheHive for Case Management & Shuffle for SOAR Capabilities.
-
-Security Blue Team | Network Analysis Course <b><i>(Write Up: Coming Soon)</b></i>
-
-- Reviewing PCAPs using Wireshark, and TCPdump.
-
-VMWare Web App Vulnerability and Pentesting Lab <b><i>(Write Up: Coming Soon)</b></i>
-
-- Setup WordPress range across 3 VMs and local host using L.A.M.P.
-
-<br />
-
-<h3> Governance, Risk, and Compliance (GRC) Projects: </h3>
-
-Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with [StudyGRC](https://studygrc.com/).
-
-- Weekly mastermind with industry professionals & students over NIST CSF & CIS 18.
-
-[Compliance & Audit](https://github.com/reachchrisyoung/GRC-Compliance-Audit) | <b><i>Spreadsheet Workbook.</b></i>
-
-- Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities.
-- Knowledgeable on NIST Cybersecurity Framework and how to Identify, Protect, Detect, Respond, and Recover categories comprise and facilitate an information security program.
-
-[Risk Assessment](https://github.com/reachchrisyoung/GRC-Risk-Assessment) | <b><i>Spreadsheet Workbook.</b></i>
-
-- Semi-quantitatively analyzed cybersecurity risk using NIST SP 800-30 methodology to identify the highest risk weakness for a system.
-- Executed threat modeling exercise to determine higher likelihood threat events to inform cybersecurity risk modeling.
-
-[CMMC Audit Workbook](https://docs.google.com/spreadsheets/d/1M4I6wVzmSpT6VNz3kyFizZvk2V-37UW3/edit?usp=sharing&ouid=110880928801368473815&rtpof=true&sd=true) | <b><i>Spreadsheet Workbook.</b></i>
-
-- Crafted for fluency in CMMC compliance & audit, implementing NIST SP 800-171 controls.
-
-[NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
-
-- Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.
-
-<br />
-
 <h2> 🤳 Data Analytics & Visualization Project Examples</h2>
 
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
@@ -90,6 +46,33 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 
 - Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents.
 <br />
+
+<h3> Governance, Risk, and Compliance (GRC) Projects: </h3>
+
+Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with [StudyGRC](https://studygrc.com/).
+
+- Weekly mastermind with industry professionals & students over NIST CSF & CIS 18.
+
+[Compliance & Audit](https://github.com/reachchrisyoung/GRC-Compliance-Audit) | <b><i>Spreadsheet Workbook.</b></i>
+
+- Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities.
+- Knowledgeable on NIST Cybersecurity Framework and how to Identify, Protect, Detect, Respond, and Recover categories comprise and facilitate an information security program.
+
+[Risk Assessment](https://github.com/reachchrisyoung/GRC-Risk-Assessment) | <b><i>Spreadsheet Workbook.</b></i>
+
+- Semi-quantitatively analyzed cybersecurity risk using NIST SP 800-30 methodology to identify the highest risk weakness for a system.
+- Executed threat modeling exercise to determine higher likelihood threat events to inform cybersecurity risk modeling.
+
+[CMMC Audit Workbook](https://docs.google.com/spreadsheets/d/1M4I6wVzmSpT6VNz3kyFizZvk2V-37UW3/edit?usp=sharing&ouid=110880928801368473815&rtpof=true&sd=true) | <b><i>Spreadsheet Workbook.</b></i>
+
+- Crafted for fluency in CMMC compliance & audit, implementing NIST SP 800-171 controls.
+
+[NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
+
+- Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.
+
+<br />
+
 
 <h2>👨‍💻 Supplemental Training</h2>
 
