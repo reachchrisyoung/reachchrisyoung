@@ -76,7 +76,6 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 
 <h2>👨‍💻 Supplemental Training</h2>
 
-- <ins><b>Current Training:</b></ins> Dr. Angela Yu | 100 Days of Code:&nbsp;<b>Python</b>
 - Dale Carnegie:
   + Effective Communication and Human Relations
   + High Impact Presentations
@@ -87,8 +86,6 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 <h2>📜 Education</h2>
 
 <b><i><h3>Southern New Hampshire University</h3></b></i>
-M. S. Applied Economics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Progress: 08/2025
-
 B. A. General Studies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08/2023
  
 - Business Administration Concentration
