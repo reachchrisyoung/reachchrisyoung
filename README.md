@@ -1,21 +1,22 @@
 <h1>Hi, I'm Chris! <a href="https://www.linkedin.com/in/reachchrisyoung/"> </a> </h1>
-SEO / Lead Generation professional of 20 years with 10 years of experience in Physical and Information Security, leading teams in blog writing, information and asset security, operations, research, and training.&nbsp;&nbsp;&nbsp;Seeking Cybersecurity - Remote roles.
+Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, seeking a Data Analyst & Business Intelligence role.
 
 <h2>📜 Certifications & Training</h2>
 
 <b><i>(Testing: 2/15/2024)</b></i> CompTIA | Network+ <br />
-ISC2 | [Certified in Cybersecurity (CC)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i> <br />
+HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+ARMA International | Avoiding Common Mistakes in Electronic Records Management <b><i>- D. Gearhart, Ph.D</b></i> <br />
 ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/) <br />
+ISC2 | [Certified in Cybersecurity (CC)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Qualys | [Vulnerability Management, Detection & Response](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-Simply Cyber | [Cybersecurity 101](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- G. Auger, Ph.D</b></i> <br />
 Simply Cyber | [The Definitive GRC Analyst Masterclass](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i> <br />
-ARMA International | Avoiding Common Mistakes in Electronic Records Management <b><i>- D. Gearhart, Ph.D</b></i> <br />
+McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
+
 
 <h2>🛡️ Information Security Projects</h2>
 <h3> Home Labs </h3>
