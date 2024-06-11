@@ -44,7 +44,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
 <br />
-<b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2
+<b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <br />
 <b>W3Schools</b> | Statistics - SQL <br />
 <b>Learn SQL</b> | Codecademy <br />
 <b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
