@@ -1,7 +1,8 @@
 <h1>Hi, I'm Chris! <a href="https://www.linkedin.com/in/reachchrisyoung/"> </a> </h1>
 Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, seeking a Data Analyst & Business Intelligence role. <br />
 
-[SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
+[SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) <br />
+[HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars)
 
 <h2>Contained in this Portfolio:</h2>
 
