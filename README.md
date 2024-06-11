@@ -23,7 +23,7 @@ Google | [Google Ads Search Certification](https://drive.google.com/file/d/1xPg3
 <h3>Cyber Threat Intelligence (CTI)</h3>
 
 ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/) <br />
+IBM | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 
 <h3>Cybersecurity & Infosec)</h3>
 
