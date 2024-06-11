@@ -7,7 +7,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 + 📜 Certifications & Training
 + 🤳 Data Analytics & Visualization Project Examples
-+ Cyber Threat Intelligence (CTI) 
++ 📓 Cyber Threat Intelligence (CTI) 
 + Governance, Risk, and Compliance (GRC) Projects 
 
 
