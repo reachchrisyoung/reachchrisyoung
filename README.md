@@ -94,6 +94,11 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 
 <h2> Cyber Threat Intelligence (CTI) </h2>
 
+Templates
+
+- [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template)
+- [CTI Reports with AI Support]
+
 + Coming Soon...
 
 <h2> 🤳 Connect with me:</h2>
