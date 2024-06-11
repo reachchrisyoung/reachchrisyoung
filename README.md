@@ -64,7 +64,7 @@ McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 - Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents.
 <br />
 
-<h3> Governance, Risk, and Compliance (GRC) Projects: </h3>
+<h2> Governance, Risk, and Compliance (GRC) Projects: </h2>
 
 Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with [StudyGRC](https://studygrc.com/).
 
