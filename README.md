@@ -50,7 +50,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> Relevant Training </h3>
 
-<h4> Records & Information Management (RIM) Training </h4>
+<h4> <u></u>Records & Information Management (RIM) Training</u> </h4>
 
 <b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
