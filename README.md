@@ -30,12 +30,13 @@ IBM | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0R
 
 ISC2 | [CC - Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
 XM Cyber | [Exposure Management Certification](https://drive.google.com/file/d/17MqiYrJKb6sdjDjzKS2JphugWPBbcxEf/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
-Simply Cyber | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing) - [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 Fortinet | [NSE 3 Network Security Associate](https://drive.google.com/file/d/1iRr0pz78Doz_eh0eM-Mz0oZRUqSpCHok/view?usp=sharing) <br />
 Qualys | [Vulnerability Management, Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
+
+<h3> Infosec Training </h3>
+Simply Cyber | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing) - [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 Antisyphon Training | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
 Active countermeasures | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
-
 
 <h3> Relevant Training </h3>
 
@@ -45,9 +46,7 @@ McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 
 <h2> 🤳 Data Analytics & Visualization Project Examples </h2>
 
-[SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
-<br />
-<br />
+[SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) <br />
 
 <h4> COVID-19 Rates Dashboard. </h4>
 
