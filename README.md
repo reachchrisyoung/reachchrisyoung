@@ -6,8 +6,9 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <h2>Contained in this Portfolio:</h2>
 + 📜 Certifications & Training <br />
 + 🤳 Data Analytics & Visualization Project Examples <br />
-+ Governance, Risk, and Compliance (GRC) Projects <br />
 + Cyber Threat Intelligence (CTI) <br />
++ Governance, Risk, and Compliance (GRC) Projects <br />
+
 
 <h2>📜 Certifications & Training</h2>
 
@@ -68,6 +69,19 @@ McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 - Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents.
 <br />
 
+<h2> Cyber Threat Intelligence (CTI) </h2>
+
+<h3>Templates</h3>
+
+- [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
+- [CTI Short Template](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
+
+<h3>CTI Co-A.I. Reporting</h3>
+
+- [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
+
++ Coming Soon...
+
 <h2> Governance, Risk, and Compliance (GRC) Projects: </h2>
 
 Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with [StudyGRC](https://studygrc.com/).
@@ -91,19 +105,6 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
 
 - Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
-
-<h2> Cyber Threat Intelligence (CTI) </h2>
-
-<h3>Templates</h3>
-
-- [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
-- [CTI Short Template](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
-
-<h3>CTI Co-A.I. Reporting</h3>
-
-- [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
-
-+ Coming Soon...
 
 <h2> 🤳 Connect with me:</h2>
 
