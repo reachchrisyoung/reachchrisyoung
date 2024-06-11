@@ -23,7 +23,7 @@ Qualys | [Vulnerability Management, Detection & Response](https://www.linkedin.c
 Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Simply Cyber | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing) <br />
-&nbsp; &nbsp;             | [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing)<br />
 
 <h3>Relevant Credentials</h3>
 
