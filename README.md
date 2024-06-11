@@ -1,5 +1,6 @@
 <h1>Hi, I'm Chris! <a href="https://www.linkedin.com/in/reachchrisyoung/"> </a> </h1>
 Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, seeking a Data Analyst & Business Intelligence role. <br />
+
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
 <h2>📜 Certifications & Training</h2>
