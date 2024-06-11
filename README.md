@@ -14,24 +14,26 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3>Data Analytics & Visualization</h3>
 
-Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i>  <br />
-HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+Break Into Tech | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i>  <br />
+HackerRank | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
 Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Google | [Analytics Certification](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [Google Analytics Individual Qualification](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) <br />
 Google | [Google Ads Search Certification](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Google Ads - Measurement Certification](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
 
 <h3>Cyber Threat Intelligence (CTI)</h3>
 
-ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 IBM | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 
 <h3>Cybersecurity & Infosec)</h3>
 
 ISC2 | [CC - Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
-XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- Gerald Auger, Ph.D</b></i> <br />
+XM Cyber | [Exposure Management Certification](https://drive.google.com/file/d/17MqiYrJKb6sdjDjzKS2JphugWPBbcxEf/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 Simply Cyber | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing) - [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
-Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-Qualys | [Vulnerability Management, Detection & Response](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+Fortinet | [NSE 3 Network Security Associate](https://drive.google.com/file/d/1iRr0pz78Doz_eh0eM-Mz0oZRUqSpCHok/view?usp=sharing) <br />
+Qualys | [Vulnerability Management, Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
+Antisyphon Training | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <br />
+
 
 <h3>Relevant Credentials</h3>
 
