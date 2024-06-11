@@ -33,6 +33,8 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>Fortinet</b> | [NSE 3 Network Security Associate](https://drive.google.com/file/d/1iRr0pz78Doz_eh0eM-Mz0oZRUqSpCHok/view?usp=sharing) <br />
 <b>Qualys</b> | [Vulnerability Management, Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
 
+<h2>Related Training</h2>
+
 <h3> Conferences </h3>
 
 <b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
@@ -49,14 +51,12 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>EC-Council</b> | Python for Absolute Beginners - [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) - [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
 <b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
 
-<h3> Relevant Training </h3>
-
-<h4> Records & Information Management (RIM) Training </h4>
+<h3> Records & Information Management (RIM) Training </h3>
 
 <b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
 
-<h4> Data Analytics Training </h4>
+<h3> Data Analytics Training </h3>
 
 <b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <br />
 <b>W3Schools</b> | Statistics - SQL <br />
