@@ -33,7 +33,7 @@ Simply Cyber | [The Definitive GRC Analyst Masterclass](https://drive.google.com
 Fortinet | [NSE 3 Network Security Associate](https://drive.google.com/file/d/1iRr0pz78Doz_eh0eM-Mz0oZRUqSpCHok/view?usp=sharing) <br />
 Qualys | [Vulnerability Management, Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
 Antisyphon Training | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
-Active countermeasures | Cyber Threat Hunting <b><i>- Chris Brenton </b></i> <br />
+Active countermeasures | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
 
 
 <h3>Relevant Credentials</h3>
