@@ -12,11 +12,9 @@ ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedi
 
 <h3>Cybersecurity & Infosec)</h3>
 
-ISC2 | [Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
-Qualys | [Vulnerability Management, Detection & Response](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+ISC2 | [Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) | Qualys | [Vulnerability Management, Detection & Response](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) | Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-Simply Cyber | [The Definitive GRC Analyst Masterclass](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+Simply Cyber | [The Definitive GRC Analyst Masterclass](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) | Simply Cyber | [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing)<br />
 McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 ARMA International | Avoiding Common Mistakes in Electronic Records Management <b><i>- D. Gearhart, Ph.D</b></i> <br />
 
