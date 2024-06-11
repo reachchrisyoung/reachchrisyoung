@@ -86,61 +86,7 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 
 [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
 
-- Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.
-
-<br />
-
-
-<h2>👨‍💻 Supplemental Training</h2>
-
-- Dale Carnegie:
-  + Effective Communication and Human Relations
-  + High Impact Presentations
-  + Leadership Training for Managers
-- Faculty of Law, University of Windsor | Negotiation Course (ICW The Stitt Feld Handy Group) 
-<br />
-
-<h2>📜 Education</h2>
-
-<b><i><h3>Southern New Hampshire University</h3></b></i>
-B. A. General Studies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08/2023
- 
-- Business Administration Concentration
-- Minor in Philosophy
-
-<b><i><h3><h3>Wayne State University</h3></b></i>
-B. A. Communication Studies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05/2017
-- Coursework in <b><i>Statistics</b></i>, <b><i>C++</b></i>, and Research Methods.
-- Graduate work in <b><i>Records and Information Management</b></i>.
-- <b><i>[Senior Project](https://bit.ly/npcsseo)</b></i>: Generated 7 Leads in 8 Days from the initial launch of the client's new website and refined Google map listing.
-<br />
-
-<h2>🛡️ Volunteerism</h2>
-
-<h3>Records and Information Manager (RIM), Education & Training | VetSec (veteransec.com)</h3>
-
-- Manually reconciled 2,671 GitHub records to 2,271 practical assets over 13 days in support of 6,745 military veterans.
-
-<h3>Cybersecurity Consultant | Simply Cyber</h3>
-
-- Critiqued 16 weeks of academic content (web-based) - reviewing both video lectures & practical labs - within 13 days.
-
-<h3>Amateur Radio Operator | Federal Communications Commission (FCC)</h3>
-
-- Amateur Extra Class License.  Adhering to FCC Part 97 Regulations as a Registered Instructor & Volunteer Examiner.
-
-<h3>Writing Tutor (Veteran-Exclusive) | Wayne State University Student Veterans Resource Center</h3>
-
-- Systemized academic writing to help 243 veterans skyrocket their grades on papers by 200% to 300% in 2 to 3 weeks.
-
-<h2>📜 Honors & Awards</h2>
-
-- Dale Carnegie:
-  + [Educational Certificate in Organizational Leadership](https://www.linkedin.com/in/reachchrisyoung/details/honors/) <b><i>(with The University of Central Missouri)</b></i>
-  + [Oustanding Performance Award)](https://www.linkedin.com/in/reachchrisyoung/details/honors/) <b><i>(Peer-Elected)</b></i>
-  + [Breakthrough Award](https://www.linkedin.com/in/reachchrisyoung/details/honors/) <b><i>(Peer-Elected)</b></i>
-- BSA | Eagle Scout
-<br />
+- Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
 
 <h2> 🤳 Connect with me:</h2>
 
