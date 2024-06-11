@@ -11,7 +11,8 @@ HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchris
 ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) & IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/) <br />
 
 <h3>Cybersecurity & Infosec)</h3>
-ISC2 | [Certified in Cybersecurity CC](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
+
+ISC2 | [Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
 Qualys | [Vulnerability Management, Detection & Response](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
