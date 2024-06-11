@@ -73,7 +73,7 @@ McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 - Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents.
 <br />
 
-<h2> Cyber Threat Intelligence (CTI) </h2>
+<h2> 📓 Cyber Threat Intelligence (CTI) </h2>
 
 <h3>Templates</h3>
 
