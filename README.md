@@ -58,7 +58,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 <h3> Data Analytics Training </h3>
 
-<b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <br />
+<b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <b><i>- R. Hunt</b></i> <br /><br />
 <b>W3Schools</b> | Statistics - SQL <br />
 <b>Codecademy</b> | Learn SQL <br />
 <b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
