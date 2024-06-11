@@ -43,7 +43,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>Simply Cyber</b> | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing) - [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 <b>Antisyphon Training</b> | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
-<b>EC-Council</b> | Python for Absolute Beginners <br />
+<b>EC-Council</b> | Python for Absolute Beginners - [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) - [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
 <b>FEMA</b> | IS-29 - Public Information Officer <br />
 <b>FEMA</b> | IS-794 - External Affairs Liaison <br />
 
