@@ -8,7 +8,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 + 📜 Certifications & Training
 + 🤳 Data Analytics & Visualization Project Examples
 + 📓 Cyber Threat Intelligence (CTI) 
-+ Governance, Risk, and Compliance (GRC) Projects 
++ ✅ Governance, Risk, and Compliance (GRC) Projects 
 
 
 <h2>📜 Certifications & Training</h2>
@@ -86,7 +86,7 @@ McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 
 + Coming Soon...
 
-<h2> Governance, Risk, and Compliance (GRC) Projects: </h2>
+<h2> ✅ Governance, Risk, and Compliance (GRC) Projects: </h2>
 
 Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with [StudyGRC](https://studygrc.com/).
 
