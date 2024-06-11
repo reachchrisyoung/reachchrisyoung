@@ -23,7 +23,8 @@ Simply Cyber | [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MM
 
 <h3>Relevant Credentials</h3>
 
-ARMA International | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> & McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
+ARMA International | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
+McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 
 
 <h2> 🤳 Data Analytics & Visualization Project Examples</h2>
