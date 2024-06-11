@@ -60,7 +60,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 <b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <br />
 <b>W3Schools</b> | Statistics - SQL <br />
-<b>Learn SQL</b> | Codecademy <br />
+<b>Codecademy</b> | Learn SQL <br />
 <b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
 <b>SQLBolt</b> | Intro. to SQL <br />
 
