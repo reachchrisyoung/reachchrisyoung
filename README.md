@@ -37,7 +37,7 @@ Antisyphon Training | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwP
 Active countermeasures | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
 
 
-<h3>Relevant Credentials</h3>
+<h3> Relevant Training </h3>
 
 ARMA Int'l | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
