@@ -3,19 +3,22 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h2>📜 Certifications & Training</h2>
 
-<b><i>(Testing Soon)</b></i> CompTIA | Network+ <br />
 Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i> <br />
-HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-ARMA International | Avoiding Common Mistakes in Electronic Records Management <b><i>- D. Gearhart, Ph.D</b></i> <br />
-ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/) <br />
+HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) & Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+
+<h3>Cyber Threat Intelligence (CTI)</h3>
+
+ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) & IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/) <br />
+
+<h3>Cybersecurity & Infosec)</h3>
 ISC2 | [Certified in Cybersecurity (CC)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Qualys | [Vulnerability Management, Detection & Response](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Simply Cyber | [The Definitive GRC Analyst Masterclass](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
+ARMA International | Avoiding Common Mistakes in Electronic Records Management <b><i>- D. Gearhart, Ph.D</b></i> <br />
+
 
 <h2> 🤳 Data Analytics & Visualization Project Examples</h2>
 
