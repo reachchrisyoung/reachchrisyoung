@@ -3,6 +3,12 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
+<h2>Contained in this Portfolio:</h2>
++ 📜 Certifications & Training
++ 🤳 Data Analytics & Visualization Project Examples
++ Governance, Risk, and Compliance (GRC) Projects
++ Cyber Threat Intelligence (CTI)
+
 <h2>📜 Certifications & Training</h2>
 
 <h3>Data Analytics & Visualization</h3>
@@ -25,8 +31,6 @@ XM Cyber | [Exposure Management Certification](https://www.linkedin.com/in/reach
 Simply Cyber | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing) - [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 Fortinet | [NSE 3 Network Security Associate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Qualys | [Vulnerability Management, Detection & Response](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-
-
 
 <h3>Relevant Credentials</h3>
 
@@ -87,6 +91,10 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
 
 - Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
+
+<h2> Cyber Threat Intelligence (CTI) </h2>
+
++ Coming Soon...
 
 <h2> 🤳 Connect with me:</h2>
 
