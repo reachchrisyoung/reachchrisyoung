@@ -11,7 +11,7 @@ Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reac
 HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Google | [Analytics Certification](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [Google Analytics Individual Qualification](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) <br />
-Google | [Google Ads Search Certification](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) | [Google Ads - Measurement Certification](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
+Google | [Google Ads Search Certification](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Google Ads - Measurement Certification](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
 
 <h3>Cyber Threat Intelligence (CTI)</h3>
 
