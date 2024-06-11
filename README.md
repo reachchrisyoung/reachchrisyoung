@@ -3,7 +3,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h2>📜 Certifications & Training</h2>
 
-<b><i>(Testing: 2/15/2024)</b></i> CompTIA | Network+ <br />
+<b><i>(Testing Soon)</b></i> CompTIA | Network+ <br />
 Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i> <br />
 HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
