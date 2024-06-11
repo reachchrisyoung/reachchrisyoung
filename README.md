@@ -97,7 +97,7 @@ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with
 Templates
 
 - [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template)
-- [CTI Reports with AI Support]
+- [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
 
 + Coming Soon...
 
