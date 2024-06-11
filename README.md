@@ -25,7 +25,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>ArcX</b> | [Certified Threat Intelligence Analyst (Foundations)](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 
-<h3>Cybersecurity & Infosec)</h3>
+<h3>Cybersecurity & Infosec</h3>
 
 <b>ISC2</b> | [CC - Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
 <b>XM Cyber</b> | [Exposure Management Certification](https://drive.google.com/file/d/17MqiYrJKb6sdjDjzKS2JphugWPBbcxEf/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
@@ -50,7 +50,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> Relevant Training </h3>
 
-<h4> <u>Records & Information Management (RIM) Training</u> </h4>
+<h4> Records & Information Management (RIM) Training </h4>
 
 <b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
