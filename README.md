@@ -3,9 +3,13 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h2>📜 Certifications & Training</h2>
 
+<h3>Data Analytics</h3>
+
 Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i> <br />
 HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+Google | [Analytics Certification](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing)
+Google | [Google Analytics Individual Qualification](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing)
 
 <h3>Cyber Threat Intelligence (CTI)</h3>
 
