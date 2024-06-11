@@ -17,8 +17,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>Break Into Tech</b> | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i>  <br />
 <b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
 <b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-<b>Google</b> | [Analytics Certification](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [Google Analytics Individual Qualification](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) <br />
-<b>Google</b> | [Google Ads Search Certification](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Google Ads - Measurement Certification](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
+<b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
 
 <h3>Cyber Threat Intelligence (CTI)</h3>
 
@@ -36,8 +35,8 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
 <b>Black Hills Information Security</b> | [The Most Offensive Con That Ever Offensived: ByPass Edition 2024](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) <b><i>- John Strand</b></i> <br />
-<b>Simply Cyber</b> | [Simply Cyber Con 2023](https://drive.google.com/file/d/1qqKSAuyZF5Yhhq97_RsGSrkGiXDK5BVJ/view?usp=sharing)
-<b>VetSec</b> | VetSec Con 2023
+<b>Simply Cyber</b> | [Simply Cyber Con 2023](https://drive.google.com/file/d/1qqKSAuyZF5Yhhq97_RsGSrkGiXDK5BVJ/view?usp=sharing) <br />
+<b>VetSec</b> | VetSec Con 2023 <br />
 
 <h3> Infosec Training </h3>
 
