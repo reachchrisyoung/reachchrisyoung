@@ -26,7 +26,7 @@ ARMA International | Avoiding Common Mistakes in Electronic Records Management (
 McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 
 
-<h2> 🤳 Data Analytics & Visualization Project Examples</h2>
+<h2> 🤳 Data Analytics & Visualization Project Examples</h2> [SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
 
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
 <br />
