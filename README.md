@@ -4,10 +4,10 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
 <h2>Contained in this Portfolio:</h2>
-+ 📜 Certifications & Training
-+ 🤳 Data Analytics & Visualization Project Examples
-+ Governance, Risk, and Compliance (GRC) Projects
-+ Cyber Threat Intelligence (CTI)
++ 📜 Certifications & Training <br />
++ 🤳 Data Analytics & Visualization Project Examples <br />
++ Governance, Risk, and Compliance (GRC) Projects <br />
++ Cyber Threat Intelligence (CTI) <br />
 
 <h2>📜 Certifications & Training</h2>
 
