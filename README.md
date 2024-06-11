@@ -21,7 +21,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3>Cyber Threat Intelligence (CTI)</h3>
 
-<b>ArcX</b> | [Certified Threat Intelligence Analyst (Foundations)](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
+<b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 
 <h3>Cybersecurity & Infosec</h3>
