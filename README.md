@@ -32,34 +32,36 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>Fortinet</b> | [NSE 3 Network Security Associate](https://drive.google.com/file/d/1iRr0pz78Doz_eh0eM-Mz0oZRUqSpCHok/view?usp=sharing) <br />
 <b>Qualys</b> | [Vulnerability Management, Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
 
+<h3> Conferences </h3>
+
+<b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
+<b>Black Hills Information Security</b> | [The Most Offensive Con That Ever Offensived: ByPass Edition 2024](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) <b><i>- John Strand</b></i> <br />
+<b>Simply Cyber</b> | [Simply Cyber Con 2023](https://drive.google.com/file/d/1qqKSAuyZF5Yhhq97_RsGSrkGiXDK5BVJ/view?usp=sharing)
+<b>VetSec</b> | VetSec Con 2023
+
 <h3> Infosec Training </h3>
 
 <b>Simply Cyber</b> | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing) - [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 <b>Antisyphon Training</b> | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
+<b>EC-Council</b> | Python for Absolute Beginners <br />
+<b>FEMA</b> | IS-29 - Public Information Officer <br />
+<b>FEMA</b> | IS-794 - External Affairs Liaison <br />
 
 <h3> Relevant Training </h3>
 
-<h4> Information Maintenance </h4>
+<h4> Records & Information Management (RIM) Training </h4>
 
 <b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
 
-<h4> Data Analytics </h4>
+<h4> Data Analytics Training </h4>
 
 <b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <br />
 <b>W3Schools</b> | Statistics - SQL <br />
 <b>Learn SQL</b> | Codecademy <br />
 <b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
 <b>SQLBolt</b> | Intro. to SQL <br />
-
-<h4>Cybersecurity / Cyber Threat Intelligence (CTI)</h4>
-
-<b>SANS Institute</b> | Cyber Threat Intelligence (CTI) Summit 2024 <br />
-<b>EC-Council</b> | Python for Absolute Beginners <br />
-<b>FEMA</b> | IS-29 - Public Information Officer <br />
-<b>FEMA</b> | IS-794 - External Affairs Liaison <br />
-
 
 <h2> 🤳 Data Analytics & Visualization Project Examples </h2>
 
