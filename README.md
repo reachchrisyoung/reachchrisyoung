@@ -6,7 +6,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h2>Contained in this Portfolio:</h2>
 
-+ 📜 Certifications & Training
++ 📜 [Certifications & Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-credentials)
 + Related Training
 + 🤳 Data Analytics & Visualization Project Examples
 + 📓 Cyber Threat Intelligence (CTI) 
