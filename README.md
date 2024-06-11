@@ -5,14 +5,12 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3>Data Analytics</h3>
 
-Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i>  | HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) | Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-Google | [Analytics Certification](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing)
-Google | [Google Analytics Individual Qualification](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing)
+Break Into Tech | [Data Analytics Professional](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <b><i>- C. Chaze</b></i>  - HackerRank | [SQL (Advanced) Certificate](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) - Tableau | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+Google | [Analytics Certification](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) & Google | [Google Analytics Individual Qualification](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) <br />
 
 <h3>Cyber Threat Intelligence (CTI)</h3>
 
-ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/) <br />
+ArcX | [Certified Threat Intelligence Analyst (Foundations)](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) & IBM | [Cyber Threat Intelligence](https://www.linkedin.com/in/reachchrisyoung/details/courses/) <br />
 
 <h3>Cybersecurity & Infosec)</h3>
 
@@ -25,8 +23,7 @@ Simply Cyber | [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MM
 
 <h3>Relevant Credentials</h3>
 
-McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
-ARMA International | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
+ARMA International | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> & McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
 
 
 <h2> 🤳 Data Analytics & Visualization Project Examples</h2>
