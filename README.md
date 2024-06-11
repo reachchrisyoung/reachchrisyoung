@@ -3,7 +3,6 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) <br />
 [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars)
-(https://tryhackme.com/badge/1663496)
 
 <h2>Contained in this Portfolio:</h2>
 
