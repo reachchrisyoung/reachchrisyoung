@@ -41,8 +41,15 @@ Active countermeasures | [Cyber Threat Hunting](https://drive.google.com/file/d/
 
 <h3> Relevant Training </h3>
 
-ARMA Int'l | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
-McKinney & Guest Pryal | Core Grammar for Lawyers (Fall 2017) <br />
+<b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
+<b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
+<br />
+ThinkData Solutions, Inc. | Learning Data Analytics 1 & 2
+W3Schools | Statistics - SQL <br />
+Learn SQL | Codecademy <br />
+Khan Academy | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
+SQLBolt | Intro. to SQL <br />
+EC-Council | Python for Absolute Beginners
 
 
 <h2> 🤳 Data Analytics & Visualization Project Examples </h2>
