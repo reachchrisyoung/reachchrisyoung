@@ -10,7 +10,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 + [Related Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#related-training)
 + 🤳 [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--data-analytics--visualization-project-examples-)
 + 📓 [Cyber Threat Intelligence (CTI)](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--cyber-threat-intelligence-cti-)
-+ ✅ [Governance, Risk, and Compliance (GRC) Projects]
++ ✅ [Governance, Risk, and Compliance (GRC) Projects](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--governance-risk-and-compliance-grc-projects-)
 
 <h2>📜 Credentials</h2>
 
