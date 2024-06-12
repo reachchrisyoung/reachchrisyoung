@@ -83,6 +83,8 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
+-------------------------------------------
+
 <h2> 🔗 Cyber Threat Intelligence (CTI) </h2>
 
 <h3> 📜 CTI Credentials </h3>
@@ -107,6 +109,8 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 + Coming Soon...
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+
+-------------------------------------------
 
 <h2> 🔐 Cybersecurity & Infosec </h2>
 
@@ -140,6 +144,8 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
+-------------------------------------------
+
 <h2> ✅ Governance, Risk, and Compliance (GRC) Projects: </h2>
 
 <h3> Accomplishments </h3>
@@ -168,6 +174,8 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 - Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+
+-------------------------------------------
 
 <h2> 🔗 Connect with me: </h2>
 
