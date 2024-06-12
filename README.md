@@ -27,7 +27,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h2> 🤳 Data Analytics</h2>
 
-<h3> 📜 Credentials</h3>
+<h3> 📜 Data Analytics Credentials</h3>
 
 <b>Break Into Tech</b> | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i>  <br />
 <b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
