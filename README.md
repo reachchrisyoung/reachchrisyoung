@@ -94,7 +94,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 - [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
 
-+ Coming Soon...
++ Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
