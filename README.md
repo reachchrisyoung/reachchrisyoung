@@ -12,7 +12,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
-  + 📜 [CTI Credentials](https://github.com/reachchrisyoung#--cti-credentials-) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cti-credentials-) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
 
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
