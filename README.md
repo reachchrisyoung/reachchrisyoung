@@ -16,14 +16,11 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
-  + 📜 [Cybersecurity Credentials](https://github.com/reachchrisyoung#--credentials-)
-  + [Conferences](https://github.com/reachchrisyoung#-conferences-)
-  + [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
+  + 📜 [Cybersecurity Credentials](https://github.com/reachchrisyoung#--credentials-) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
-  + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-)
-  + [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
+  + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
 
