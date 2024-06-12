@@ -42,7 +42,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 <b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h3> Data Analytics & Visualization Project Examples </h3>
 
@@ -68,7 +68,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 - Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents. <br />
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h3> Data Analytics Training </h3>
 
@@ -82,7 +82,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
 <b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h2> 🔗 Cyber Threat Intelligence (CTI)</h2>
 
@@ -92,7 +92,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst
 <b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h2>CTI Portfolio</h2>
 
@@ -107,7 +107,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst
 
 + Coming Soon...
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h2> 🔐 Cybersecurity & Infosec</h2>
 
@@ -119,7 +119,7 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 <b>Fortinet</b> | [NSE 3 Network Security Associate](https://drive.google.com/file/d/1iRr0pz78Doz_eh0eM-Mz0oZRUqSpCHok/view?usp=sharing) <br />
 <b>Qualys</b> | [Vulnerability Management, Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h3>Conferences</h3>
 
@@ -128,7 +128,7 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 <b>Simply Cyber</b> | [Simply Cyber Con 2023](https://drive.google.com/file/d/1qqKSAuyZF5Yhhq97_RsGSrkGiXDK5BVJ/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 <b>VetSec</b> | VetSec Con 2023 <br /> 
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h3>Infosec Training</h3>
 
@@ -139,7 +139,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
 <b>EC-Council</b> | Python for Absolute Beginners - [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) - [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h2> ✅ Governance, Risk, and Compliance (GRC) Projects: </h2>
 
@@ -165,7 +165,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 - Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
 <h2> 🔗 Connect with me:</h2>
 
