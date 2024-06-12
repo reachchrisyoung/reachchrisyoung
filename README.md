@@ -23,6 +23,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
   + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
+-------------------------------------------
 
 <h2> 🤳 Data Analytics</h2>
 
