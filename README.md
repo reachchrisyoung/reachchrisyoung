@@ -15,7 +15,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
   + 📜 [CTI Credentials](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--cti-credentials)
-  + CTI Project Examples
+  + [CTI Project Examples]
     + Drafting Templates
     + CTI Co-A.I. Reporting
 
@@ -27,10 +27,8 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
-  + Compliance & Audit
-  + Risk Assessment
-  + CMMC Audit Workbook
-  + NIST 800-37 Risk Management Framework
+  + [Accomplishments]
+  + [GRC Project Examples]
 
 -------------------------------------------
 
@@ -144,9 +142,11 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 <h2> ✅ Governance, Risk, and Compliance (GRC) Projects: </h2>
 
-+ Co-Founder,&nbsp;<b>GRC Study Hall</b>&nbsp;|&nbsp;Developed in conjunction with [StudyGRC](https://studygrc.com/).
+<h3>Accomplishments</h3>
 
-+ Weekly mastermind with industry professionals & students over NIST CSF & CIS 18.
++ Co-Founder, <b>GRC Study Hall</b> (Developed in conjunction with Simply Cyber) | Weekly mastermind with industry professionals & students over NIST CSF & CIS 18.
+
+<h3>GRC Project Examples</h3>
 
 [Compliance & Audit](https://github.com/reachchrisyoung/GRC-Compliance-Audit) | <b><i>Spreadsheet Workbook.</b></i>
 
