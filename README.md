@@ -27,14 +27,14 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h2> 🤳 Data Analytics</h2>
 
-<h3>Credentials</h3>
+<h3> 📜 Credentials</h3>
 
 <b>Break Into Tech</b> | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i>  <br />
 <b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
 <b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 <b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
 
-<h3> 🤳 Data Analytics & Visualization Project Examples </h3>
+<h3> Data Analytics & Visualization Project Examples </h3>
 
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) <br />
 
@@ -72,8 +72,9 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 <h2> 🔗 Cyber Threat Intelligence (CTI)</h2>
 
-<h3>Credentials</h3>
+<h3> 📜 Credentials</h3>
 
+In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst
 <b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 
@@ -90,9 +91,9 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 + Coming Soon...
 
-<h2>Cybersecurity & Infosec</h2>
+<h2> 🔐 Cybersecurity & Infosec</h2>
 
-<h3>Certifications</h3>
+<h3> 📜 Credentials</h3>
 
 In-Progress - <b> - CompTIA </b> | Network+ <br />
 <b>ISC2</b> | [CC - Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
