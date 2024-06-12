@@ -8,19 +8,19 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> 🤳 Data Analytics </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics-credentials) | [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-) | [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) | [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-) | [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-)
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--cti-credentials-) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
 
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--credentials-) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cybersecurity--infosec--1) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
-  + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
+  + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects--1) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
 -------------------------------------------
