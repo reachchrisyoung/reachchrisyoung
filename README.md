@@ -27,7 +27,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
-  + [Accomplishments]
+  + [Accomplishments](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-accomplishments-)
   + [GRC Project Examples]
 
 -------------------------------------------
