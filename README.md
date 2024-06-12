@@ -73,6 +73,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
+-------------------------------------------
 
 <h2> 🔗 Cyber Threat Intelligence (CTI) </h2>
 
@@ -97,6 +98,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
+-------------------------------------------
 -------------------------------------------
 
 <h2> 🔐 Cybersecurity & Infosec </h2>
@@ -128,6 +130,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
+-------------------------------------------
 
 <h2> ✅ Governance, Risk, and Compliance (GRC) Projects: </h2>
 
@@ -153,6 +156,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
+-------------------------------------------
 -------------------------------------------
 
 <h2> 🔗 Connect with me: </h2>
