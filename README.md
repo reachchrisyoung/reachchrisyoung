@@ -87,7 +87,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 <h2> 🔗 Cyber Threat Intelligence (CTI)</h2>
 
-<h3> 📜 Credentials</h3>
+<h3> 📜 CTI Credentials</h3>
 
 In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 <b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
