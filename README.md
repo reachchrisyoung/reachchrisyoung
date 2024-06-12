@@ -10,7 +10,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
   + 📜 [Data Analytics Credentials](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--data-analytics-credentials)
   + [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-data-analytics--visualization-project-examples-)
-  + Data Analytics Training
+  + [Data Analytics Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-data-analytics-training-)
 
 <h3> 🔗 [Cyber Threat Intelligence (CTI)] </h3>
 
