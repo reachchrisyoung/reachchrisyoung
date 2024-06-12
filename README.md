@@ -171,12 +171,10 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <h2> 🔗 Connect with me:</h2>
 
 [<img align="left" alt="yourname | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yourname | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://app.snapps.ai/preview/92193d0f
 [youtube]: https://www.youtube.com/reachchrisyoung
 [linkedin]: https://linkedin.com/in/reachchrisyoung
 
+<br />
 [RETURN TO THE TOP](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
