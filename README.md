@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <a href="https://www.linkedin.com/in/reachchrisyoung/"> </a> </h1>
+<h1>Hi, I'm Chris! <a href="https://www.linkedin.com/in/reachchrisyoung/"> [linkedin] </a> </h1>
 Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, seeking a Data Analyst & Business Intelligence role. <br />
 
 <b>PORTFOLIO LINKS ➡ [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) <br />
@@ -177,6 +177,6 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/reachchrisyoung
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/reachchrisyoung
 
-[RETURN TO PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[RETURN TO THE TOP](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
