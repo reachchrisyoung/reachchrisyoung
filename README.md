@@ -83,9 +83,9 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
-<h2> 🔗 Cyber Threat Intelligence (CTI)</h2>
+<h2> 🔗 Cyber Threat Intelligence (CTI) </h2>
 
-<h3> 📜 CTI Credentials</h3>
+<h3> 📜 CTI Credentials </h3>
 
 In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 <b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
@@ -93,14 +93,14 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
-<h2>CTI Project Examples</h2>
+<h2> CTI Project Examples </h2>
 
-<h3>Drafting Templates</h3>
+<h3> Drafting Templates </h3>
 
 - [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
 - [CTI Short Template](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
 
-<h3>CTI Co-A.I. Reporting</h3>
+<h3> CTI Co-A.I. Reporting </h3>
 
 - [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
 
@@ -108,9 +108,9 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
-<h2> 🔐 Cybersecurity & Infosec</h2>
+<h2> 🔐 Cybersecurity & Infosec </h2>
 
-<h3> 📜 Credentials</h3>
+<h3> 📜 Credentials </h3>
 
 In-Progress - <b> - CompTIA </b> | Network+ <br />
 <b>ISC2</b> | [CC - Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
@@ -120,7 +120,7 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
-<h3>Conferences</h3>
+<h3> Conferences </h3>
 
 <b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
 <b>Black Hills Information Security</b> | [The Most Offensive Con That Ever Offensived: ByPass Edition 2024](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) <b><i>- John Strand</b></i> <br />
@@ -129,7 +129,7 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
-<h3>Infosec Training</h3>
+<h3> Infosec Training </h3>
 
 In-Progress - <b> Level Effect </b> | IT Fundamentals <br />
 In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
@@ -142,11 +142,11 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 <h2> ✅ Governance, Risk, and Compliance (GRC) Projects: </h2>
 
-<h3>Accomplishments</h3>
+<h3> Accomplishments </h3>
 
 + Co-Founder, <b>GRC Study Hall</b> (Developed in conjunction with Simply Cyber) | Weekly mastermind with industry professionals & students over NIST CSF & CIS 18.
 
-<h3>GRC Project Examples</h3>
+<h3> GRC Project Examples </h3>
 
 [Compliance & Audit](https://github.com/reachchrisyoung/GRC-Compliance-Audit) | <b><i>Spreadsheet Workbook.</b></i>
 
@@ -168,7 +168,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
-<h2> 🔗 Connect with me:</h2>
+<h2> 🔗 Connect with me: </h2>
 
 [<img align="left" alt="yourname | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
