@@ -14,7 +14,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
-  + 📜 CTI Credentials
+  + 📜 [CTI Credentials](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--credentials)
   + CTI Project Examples
     + Drafting Templates
     + CTI Co-A.I. Reporting
@@ -89,7 +89,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 <h3> 📜 Credentials</h3>
 
-In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst
+In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 <b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 
