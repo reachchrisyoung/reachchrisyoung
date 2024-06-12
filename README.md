@@ -153,7 +153,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
   + Semi-quantitatively analyzed cybersecurity risk using NIST SP 800-30 methodology to identify the highest risk weakness for a system.
   + Executed threat modeling exercise to determine higher likelihood threat events to inform cybersecurity risk modeling.
 
-+[CMMC Audit Workbook](https://docs.google.com/spreadsheets/d/1M4I6wVzmSpT6VNz3kyFizZvk2V-37UW3/edit?usp=sharing&ouid=110880928801368473815&rtpof=true&sd=true) | <b><i>Spreadsheet Workbook.</b></i>
++ [CMMC Audit Workbook](https://docs.google.com/spreadsheets/d/1M4I6wVzmSpT6VNz3kyFizZvk2V-37UW3/edit?usp=sharing&ouid=110880928801368473815&rtpof=true&sd=true) | <b><i>Spreadsheet Workbook.</b></i>
   + Crafted for fluency in CMMC compliance & audit, implementing NIST SP 800-171 controls.
 
 + [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
