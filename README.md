@@ -4,13 +4,15 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) <br />
 [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars)
 
-<h2>Contained in this Portfolio:</h2>
+<h2>Table of Contents:</h2>
 
 <h3> 🤳 [Data Analytics] </h3>
 
   + 📜 [Data Analytics Credentials](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--data-analytics-credentials)
   + [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-data-analytics--visualization-project-examples-)
   + [Data Analytics Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-data-analytics-training-)
+
+[RETURN TO PORTFOLIO LINKS]
 
 <h3> 🔗 [Cyber Threat Intelligence (CTI)] </h3>
 
