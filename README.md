@@ -6,20 +6,27 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h2>Contained in this Portfolio:</h2>
 
-+ 🤳 [Data Analytics]
+<h3> 🤳 [Data Analytics] </h3>
+
   + 📜 Data Analytics Credentials
   + Data Analytics & Visualization Project Examples
   + Data Analytics Training
-+ 🔗 [Cyber Threat Intelligence (CTI)]
+
+<h3> 🔗 [Cyber Threat Intelligence (CTI)] </h3>
+
   + 📜 CTI Credentials
   + CTI Project Examples
     + Drafting Templates
     + CTI Co-A.I. Reporting
-+ 🔐 [Cybersecurity & Infosec]
+
+<h3> 🔐 [Cybersecurity & Infosec] </h3>
+
   + 📜 Cybersecurity Credentials
   + Conferences
   + Infosec Training
-+ ✅ [Governance, Risk, and Compliance (GRC) Projects]
+
+<h3> ✅ [Governance, Risk, and Compliance (GRC) Projects] </h3>
+
   + Compliance & Audit
   + Risk Assessment
   + CMMC Audit Workbook
