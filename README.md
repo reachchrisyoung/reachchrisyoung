@@ -93,7 +93,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
 
-<h2>CTI Portfolio</h2>
+<h2>CTI Project Examples</h2>
 
 <h3>Drafting Templates</h3>
 
