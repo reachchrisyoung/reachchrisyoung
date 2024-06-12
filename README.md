@@ -6,13 +6,26 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h2>Contained in this Portfolio:</h2>
 
-+ 📜 [Certifications & Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-credentials)
-+ [Related Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#related-training)
-+ 🤳 [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--data-analytics--visualization-project-examples-)
-+ 📓 [Cyber Threat Intelligence (CTI)](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--cyber-threat-intelligence-cti-)
-+ ✅ [Governance, Risk, and Compliance (GRC) Projects](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--governance-risk-and-compliance-grc-projects-)
++ 🤳 [Data Analytics]
+  + 📜 Data Analytics Credentials
+  + Data Analytics & Visualization Project Examples
+  + Data Analytics Training
++ 🔗 [Cyber Threat Intelligence (CTI)]
+  + 📜 CTI Credentials
+  + CTI Project Examples
+    + Drafting Templates
+    + CTI Co-A.I. Reporting
++ 🔐 [Cybersecurity & Infosec]
+  + 📜 Cybersecurity Credentials
+  + Conferences
+  + Infosec Training
++ ✅ [Governance, Risk, and Compliance (GRC) Projects]
+  + Compliance & Audit
+  + Risk Assessment
+  + CMMC Audit Workbook
+  + NIST 800-37 Risk Management Framework
 
-<h2>📜 Data Analytics</h2>
+<h2> 🤳 Data Analytics</h2>
 
 <h3>Credentials</h3>
 
@@ -57,7 +70,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
 <b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
 
-<h2>Cyber Threat Intelligence (CTI)</h2>
+<h2> 🔗 Cyber Threat Intelligence (CTI)</h2>
 
 <h3>Credentials</h3>
 
@@ -66,7 +79,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 <h2>CTI Portfolio</h2>
 
-<h3>Templates</h3>
+<h3>Drafting Templates</h3>
 
 - [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
 - [CTI Short Template](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
