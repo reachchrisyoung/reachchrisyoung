@@ -8,27 +8,27 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> 🤳 Data Analytics </h3>
 
-  + 📜 [Data Analytics Credentials](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--data-analytics-credentials)
-  + [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-data-analytics--visualization-project-examples-)
-  + [Data Analytics Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-data-analytics-training-)
+  + 📜 [Data Analytics Credentials](https://github.com/reachchrisyoung#--data-analytics-credentials)
+  + [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
+  + [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-)
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
-  + 📜 [CTI Credentials](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--cti-credentials)
-  + [CTI Project Examples](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-cti-project-examples-)
-    + [Drafting Templates](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-drafting-templates-)
-    + [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-cti-co-ai-reporting-)
+  + 📜 [CTI Credentials](https://github.com/reachchrisyoung#--cti-credentials-)
+  + [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-)
+    + [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-)
+    + [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
 
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
-  + 📜 [Cybersecurity Credentials](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--credentials)
-  + [Conferences](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#conferences)
-  + [Infosec Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#infosec-training)
+  + 📜 [Cybersecurity Credentials](https://github.com/reachchrisyoung#--credentials-)
+  + [Conferences](https://github.com/reachchrisyoung#-conferences-)
+  + [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
-  + 🏅 [Accomplishments](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-accomplishments-)
-  + [GRC Project Examples](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-grc-project-examples-)
+  + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-)
+  + [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
 
@@ -77,7 +77,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
 <b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
 
-[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
 
@@ -102,7 +102,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 + Coming Soon...
 
-[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
 
@@ -132,7 +132,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
 <b>EC-Council</b> | Python for Absolute Beginners - [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) - [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
 
-[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
 
@@ -158,7 +158,7 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 + [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
   + Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
 
-[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
 
@@ -172,4 +172,4 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 <br />
 
-[RETURN TO THE TOP](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
+[RETURN TO THE TOP](https://github.com/reachchrisyoung#hi-im-chris-)
