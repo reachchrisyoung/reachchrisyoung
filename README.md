@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! [linkedin]: https://www.linkedin.com/in/reachchrisyoung </a>
+<h1>Hi, I'm Chris! </h1>
 
 Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, seeking a Data Analyst & Business Intelligence role. <br />
 
