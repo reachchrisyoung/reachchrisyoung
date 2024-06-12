@@ -175,9 +175,8 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yourname | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
+[website]: https://app.snapps.ai/preview/92193d0f
 [youtube]: https://www.youtube.com/reachchrisyoung
-[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/reachchrisyoung
 
 [RETURN TO THE TOP](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#hi-im-chris---)
