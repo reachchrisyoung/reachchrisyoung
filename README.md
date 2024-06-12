@@ -15,7 +15,7 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
   + 📜 [CTI Credentials](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#--cti-credentials)
-  + [CTI Project Examples]
+  + [CTI Project Examples](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-cti-project-examples-)
     + Drafting Templates
     + CTI Co-A.I. Reporting
 
