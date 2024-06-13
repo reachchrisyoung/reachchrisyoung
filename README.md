@@ -34,6 +34,18 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 <b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 <b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
 
+<h3> Data Analytics Training </h3>
+
+In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro Bootcamp <br />
+<b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <b><i>- R. Hunt</b></i> <br />
+<b>W3Schools</b> | Statistics - SQL <br />
+<b>Codecademy</b> | Learn SQL <br />
+<b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
+<b>SQLBolt</b> | Intro. to SQL <br />
+<b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
+<b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
+<b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
+
 <h3> Data Analytics & Visualization Project Examples </h3>
 
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) <br />
@@ -58,17 +70,6 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 - Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents. <br />
 
-<h3> Data Analytics Training </h3>
-
-In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro Bootcamp <br />
-<b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <b><i>- R. Hunt</b></i> <br />
-<b>W3Schools</b> | Statistics - SQL <br />
-<b>Codecademy</b> | Learn SQL <br />
-<b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
-<b>SQLBolt</b> | Intro. to SQL <br />
-<b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
-<b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
-<b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
