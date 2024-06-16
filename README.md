@@ -98,6 +98,23 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 + Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
+<h2> Noteworthy Research Experience (Outside of </h2>
+
++ Sponsor: C. Wooten, DNP (2020) Nursing - [Effects of Emergency Room Overcrowding vs. Patient Return Visits](https://docs.google.com/document/d/1oJ-4BNORX7BDEvgkbAPjUrniYdE5SuhZHc7bqCebSj0/edit?usp=sharing)
+   +  [EBP PICO Presentation One-Sheet](https://docs.google.com/document/d/1m5d0r5F3If61vLQPjFNrfuLzFBEMHlCT5zAnxiFcDPg/edit?usp=sharing)
+   +  [EBP PICO Presentation Visual Aid](https://www.canva.com/design/DAEOH_CCKVI/PPTwbp5JJSEM-uVqgtckow/edit?utm_content=DAEOH_CCKVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   +  [ONLINE REVIEW: Overcrowding in the ER Vs Return Visit in 72H](https://youtu.be/nzHTRIfrIbk?si=RCP3n2giJlo5BE8u)
+
++ Sponsor: J. Korte, M. S. (2018) Human Physiology - [Hydroa Vacciniforme: Revisited](https://docs.google.com/document/d/1xN4vjmDBSN0alzV108WdMdTxVmhd71StClbRFboUWvs/edit?usp=sharing)
+
++ Sponsor: A. Talbot, M. S. (2018) Microbiology - [Smallpox: Disease-Specific Immunization](https://docs.google.com/presentation/d/13C26BW9ovn8W2UHjPs8VST58vKYNp5T8cMjCIEiYF5g/edit?usp=sharing)
+
++ Sponsor: A. Talbot, M. S. (2018) Microbiology - [Efficacy of Aged Triple Antibiotic Ointment](https://docs.google.com/presentation/d/1ceSxtELlXkxYwVZsx1CUFRgu3Yc7ooYAjCRD0gqRGJc/edit?usp=sharing)
+
++ Sponsor: K. Amolsch, M. A. (2014) Ethnography - [Emergency Room Physicians](https://drive.google.com/file/d/1x23EfyfvKLTaeg-hcSAIXoTa6cchuBom/view?usp=sharing)
+
++ More Coming Soon...
+
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
