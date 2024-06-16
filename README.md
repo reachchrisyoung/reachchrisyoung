@@ -98,7 +98,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 + Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
-<h2> Noteworthy Research Experience (Outside of </h2>
+<h2> Noteworthy Research Experience (Prior to CTI)</h2>
 
 + Sponsor: C. Wooten, DNP (2020) Nursing - [Effects of Emergency Room Overcrowding vs. Patient Return Visits](https://docs.google.com/document/d/1oJ-4BNORX7BDEvgkbAPjUrniYdE5SuhZHc7bqCebSj0/edit?usp=sharing)
    +  [EBP PICO Presentation One-Sheet](https://docs.google.com/document/d/1m5d0r5F3If61vLQPjFNrfuLzFBEMHlCT5zAnxiFcDPg/edit?usp=sharing)
