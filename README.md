@@ -98,15 +98,25 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 + Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
+<h2>Philosophy Writings</h2>
+
++ C. Young (2023) Philosophy Ethics - [Good, Evil, and Agency](https://drive.google.com/file/d/1RODOuyMBVnLyOIxnTVtc1_XI9gJD3MPg/view?usp=sharing)
+
++ C. Young (2022) Philosophy - Religions - [Religion -- of Sorts: Sikhism Vice Christianity](https://drive.google.com/file/d/1lqTG3-ScCkCe_MaE49KWbpXJ0qjhnA-Y/view?usp=sharing)
+
++ C. Young (2022) Philosophy - Environmental Ethics - [Mauritius Oil Spill: The Harm of Wrongdoing](https://drive.google.com/file/d/1230LFEqBZB83tdyOlsYqPtOcKOLOA597/view?usp=sharing)
+   + [Environmental Ethics Presentation](https://docs.google.com/presentation/d/13K7ONRMPi6fnWgMOpsKM0fTOEQhjhUwGkWcnf_FkzWw/edit?usp=sharing)
+
 <h2> Noteworthy Research Experience (Prior to CTI)</h2>
 
 + Sponsor: S. Tong, Ph.D (2017) Computer-Mediated Communication - Emojis in Text (No evidence available due to natural disaster.)
 
 + Research Assistant - S. Tong, Ph.D (2017) - Relational Dialectics in Online Dating (No evidence available due to natural disaster.)
 
-+ Sponsor: R. Mitra, Ph.D (2016) Leadership Communication - [Leadership Communication & Groups/Teams ICW TechTown Detroit](https://docs.google.com/presentation/d/1AacAEbniyFnkSamNHPFzZuM18bVySDVD/edit?usp=sharing&ouid=110880928801368473815&rtpof=true&sd=true)
++ Sponsor: R. Mitra, Ph.D (2016) Leadership Communication - Leadership Communication & Groups/Teams ICW TechTown Detroit
+   + [Leadership Communication Presentation](https://docs.google.com/presentation/d/1AacAEbniyFnkSamNHPFzZuM18bVySDVD/edit?usp=sharing&ouid=110880928801368473815&rtpof=true&sd=true)
 
-+ Sponsor: K. Maguire, Ph.D (2017) Interpersonal Communication - [Stress & Coping: Ostracism](https://docs.google.com/document/d/131qj-qszNS-D5Qd6__BXK2XzBHHEMAWQ6MToebCOZlw/edit?usp=sharing)
++ Sponsor: K. Maguire, Ph.D (2017) Interpersonal Communication - [Stress & Coping: Ostracism](https://drive.google.com/file/d/1s1uex4C-st5fdVYIEb-O9hYJOpD-t2fd/view?usp=sharing)
    + [Presentation on Ostracism](https://docs.google.com/presentation/d/1qHED84qVAVSNSCuYvderhhnW1AljCjlUE7lnK55PXLk/edit?usp=sharing)
 
 + Sponsor: C. Wooten, DNP (2020) Nursing - [Effects of Emergency Room Overcrowding vs. Patient Return Visits](https://docs.google.com/document/d/1oJ-4BNORX7BDEvgkbAPjUrniYdE5SuhZHc7bqCebSj0/edit?usp=sharing)
@@ -118,7 +128,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 + Sponsor: A. Talbot, M. S. (2018) Microbiology - [Smallpox: Disease-Specific Immunization](https://docs.google.com/presentation/d/13C26BW9ovn8W2UHjPs8VST58vKYNp5T8cMjCIEiYF5g/edit?usp=sharing)
 
-+ Sponsor: A. Talbot, M. S. (2018) Microbiology - [Efficacy of Aged Triple Antibiotic Ointment](https://docs.google.com/presentation/d/1ceSxtELlXkxYwVZsx1CUFRgu3Yc7ooYAjCRD0gqRGJc/edit?usp=sharing)
++ Sponsor: A. Talbot, M. S. (2018) Microbiology - [Efficacy on Bacteria: Aged Triple Antibiotic](https://docs.google.com/presentation/d/1ceSxtELlXkxYwVZsx1CUFRgu3Yc7ooYAjCRD0gqRGJc/edit?usp=sharing)
 
 + Sponsor: K. Amolsch, M. A. (2014) Ethnography - [Emergency Room Physicians](https://drive.google.com/file/d/1x23EfyfvKLTaeg-hcSAIXoTa6cchuBom/view?usp=sharing)
 
