@@ -100,6 +100,15 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 <h2> Noteworthy Research Experience (Prior to CTI)</h2>
 
++ Sponsor: S. Tong, Ph.D (2017) Computer-Mediated Communication - Emojis in Text (No evidence available due to natural disaster.)
+
++ Research Assistant - S. Tong, Ph.D (2017) - Relational Dialectics in Online Dating (No evidence available due to natural disaster.)
+
++ Sponsor: R. Mitra, Ph.D (2016) Leadership Communication - [Leadership Communication & Groups/Teams ICW TechTown Detroit](https://docs.google.com/presentation/d/1AacAEbniyFnkSamNHPFzZuM18bVySDVD/edit?usp=sharing&ouid=110880928801368473815&rtpof=true&sd=true)
+
++ Sponsor: K. Maguire, Ph.D (2017) Interpersonal Communication - [Stress & Coping: Ostracism](https://docs.google.com/document/d/131qj-qszNS-D5Qd6__BXK2XzBHHEMAWQ6MToebCOZlw/edit?usp=sharing)
+   + [Presentation on Ostracism](https://docs.google.com/presentation/d/1qHED84qVAVSNSCuYvderhhnW1AljCjlUE7lnK55PXLk/edit?usp=sharing)
+
 + Sponsor: C. Wooten, DNP (2020) Nursing - [Effects of Emergency Room Overcrowding vs. Patient Return Visits](https://docs.google.com/document/d/1oJ-4BNORX7BDEvgkbAPjUrniYdE5SuhZHc7bqCebSj0/edit?usp=sharing)
    +  [EBP PICO Presentation One-Sheet](https://docs.google.com/document/d/1m5d0r5F3If61vLQPjFNrfuLzFBEMHlCT5zAnxiFcDPg/edit?usp=sharing)
    +  [EBP PICO Presentation Visual Aid](https://www.canva.com/design/DAEOH_CCKVI/PPTwbp5JJSEM-uVqgtckow/edit?utm_content=DAEOH_CCKVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
