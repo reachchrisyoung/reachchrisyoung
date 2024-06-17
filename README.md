@@ -178,7 +178,8 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <h3> 🏅 Accomplishments </h3>
 
 + Co-Founder, <b>GRC Study Hall</b> (ICW Gerald Auger, Ph.D - Simply Cyber) <br />
-  Weekly mastermind with industry professionals & students over NIST Cybersecurity Framework, Risk Management (RMF), CIS Top 18 and more.
+  Weekly mastermind with industry professionals & students over NIST Cybersecurity Framework, Risk Management (RMF), <br />
+  CIS Top 18 and more.
 
 <h3> GRC Project Examples </h3>
 
