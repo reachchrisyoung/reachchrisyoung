@@ -30,9 +30,9 @@ Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, s
 
 <h3> 📜 Data Analytics Credentials</h3>
 
-<b>Break Into Tech</b> | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i>  <br />
-<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 1](https://drive.google.com/file/d/1Np0lTHXC2bHtKLBUhybplF5RNESLzsu7/view?usp=sharing) <br />
-<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 2](https://drive.google.com/file/d/1FSkNR3pG-Gkezs8jsmNP39U0IedxZFHl/view?usp=sharing) <br />
+<b>Break Into Tech</b> | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i> <br />
+<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 1](https://drive.google.com/file/d/1Np0lTHXC2bHtKLBUhybplF5RNESLzsu7/view?usp=sharing) <b><i>- R. Hunt</b></i> <br />
+<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 2](https://drive.google.com/file/d/1FSkNR3pG-Gkezs8jsmNP39U0IedxZFHl/view?usp=sharing) <b><i>- R. Hunt</b></i> <br />
 <b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
 <b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 <b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
