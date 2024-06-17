@@ -89,6 +89,8 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 <h2> CTI Project Examples </h2>
 
+<h3>[CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline)</h3>
+
 <h3> Drafting Templates </h3>
 
 - [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
