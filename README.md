@@ -85,7 +85,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 <b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 <b>CISA</b> | [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) <br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
-<b>Security Blue Team</b> | Introduction to OSINT <br />
+<b>Security Blue Team</b> | [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) <br />
 
 <h2> CTI Project Examples </h2>
 
