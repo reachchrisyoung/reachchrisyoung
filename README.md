@@ -177,7 +177,8 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 
 <h3> 🏅 Accomplishments </h3>
 
-+ Co-Founder, <b>GRC Study Hall</b> (ICW Gerald Auger, Ph.D - Simply Cyber) | Weekly mastermind with industry professionals & students over NIST CSF & CIS 18.
++ Co-Founder, <b>GRC Study Hall</b> (ICW Gerald Auger, Ph.D - Simply Cyber)
+  Weekly mastermind with industry professionals & students over NIST CSF & CIS 18.
 
 <h3> GRC Project Examples </h3>
 
