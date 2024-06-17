@@ -107,7 +107,7 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 + C. Young (2022) Philosophy - Environmental Ethics - [Mauritius Oil Spill: The Harm of Wrongdoing](https://drive.google.com/file/d/1230LFEqBZB83tdyOlsYqPtOcKOLOA597/view?usp=sharing)
    + [Environmental Ethics Presentation](https://docs.google.com/presentation/d/13K7ONRMPi6fnWgMOpsKM0fTOEQhjhUwGkWcnf_FkzWw/edit?usp=sharing)
 
-<h2> Noteworthy Research Experience (Prior to CTI)</h2>
+<h2> Academic Research Experience (Prior to CTI)</h2>
 
 + Sponsor: S. Tong, Ph.D (2017) Computer-Mediated Communication - Emojis in Text (No evidence available due to natural disaster.)
 
@@ -123,6 +123,8 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
    +  [EBP PICO Presentation One-Sheet](https://docs.google.com/document/d/1m5d0r5F3If61vLQPjFNrfuLzFBEMHlCT5zAnxiFcDPg/edit?usp=sharing)
    +  [EBP PICO Presentation Visual Aid](https://www.canva.com/design/DAEOH_CCKVI/PPTwbp5JJSEM-uVqgtckow/edit?utm_content=DAEOH_CCKVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
    +  [ONLINE REVIEW: Overcrowding in the ER Vs Return Visit in 72H](https://youtu.be/nzHTRIfrIbk?si=RCP3n2giJlo5BE8u)
+
++ C. Young (2022) Historical Research - [Historical Investigation on Chornobyl](https://drive.google.com/file/d/1eI-ZMQm2P9Igq0TpgOX-CqXKoi7Kk22R/view?usp=sharing)
 
 + Sponsor: J. Korte, M. S. (2018) Human Physiology - [Hydroa Vacciniforme: Revisited](https://docs.google.com/document/d/1xN4vjmDBSN0alzV108WdMdTxVmhd71StClbRFboUWvs/edit?usp=sharing)
 
