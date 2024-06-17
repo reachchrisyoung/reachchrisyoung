@@ -140,8 +140,6 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 + Sponsor: K. Amolsch, M. A. (2014) Ethnography - [Emergency Room Physicians](https://drive.google.com/file/d/1x23EfyfvKLTaeg-hcSAIXoTa6cchuBom/view?usp=sharing)
 
-+ More Coming Soon...
-
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
