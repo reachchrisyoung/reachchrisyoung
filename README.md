@@ -14,12 +14,16 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-) | [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [OSINT] | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-) | [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
      + [Philosophy Writings](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-academic-research-experience-prior-to-cti)
 
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cybersecurity--infosec--1) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
+
+<h3>💻 Pentesting</h3>
+
+  + [Career Training]
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
@@ -175,6 +179,19 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <b>Antisyphon Training</b> | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
 <b>EC-Council</b> | Python for Absolute Beginners - [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) - [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
+
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
+
+-------------------------------------------
+-------------------------------------------
+
+<h2>💻 Pentesting</h2>
+
+<h3>[Career Training]</h3>
+
++ Practical Web Application Security and Testing | TCM Security Academy - Michael Taggart (In Progress)
+
+
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
