@@ -55,7 +55,6 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 <b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
 <b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
-
 <h3> Data Analytics & Visualization Project Examples </h3>
 
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) <br />
@@ -89,6 +88,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 <h2> 💻 Pentesting</h2>
 
 <h3> 📜 Credentials</h3>
+
 [Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) | <b>Dr. Angela Yu</b> - In-Progress<br />
 [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) | <b>EC-Council</b><br />
 [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br />
