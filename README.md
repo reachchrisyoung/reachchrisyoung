@@ -12,6 +12,12 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) | [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-) | [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
 
+<h3> 💻 Pentesting</h3>
+
+  + [Credentials](https://github.com/reachchrisyoung#--pentesting-1)
+
+  + [Career Training](https://github.com/reachchrisyoung#-pentesting-1)
+
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-)
@@ -21,12 +27,6 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cybersecurity--infosec--1) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
-
-<h3> 💻 Pentesting</h3>
-
-  + [Credentials](https://github.com/reachchrisyoung#--pentesting-1)
-
-  + [Career Training](https://github.com/reachchrisyoung#-pentesting-1)
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
@@ -82,6 +82,30 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 - Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents. <br />
 
+
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
+
+-------------------------------------------
+-------------------------------------------
+
+<h2> 💻 Pentesting</h2>
+
+<h3> 📜 Credentials</h3>
+
+<b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
+<br />
+
+<h3> Career Training</h3>
+
++ Practical Web Application Security and Testing | <b>TCM Security Academy</b> - Michael Taggart (In Progress) <br />
+<br />
+
+<h3>Write Ups</h3>
+
++ Connecting to TryHackMen VPN
+
+<b>Coming soon...</b><br />
+<br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
@@ -189,29 +213,6 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <b>Antisyphon Training</b> | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
 <b>EC-Council</b> | Python for Absolute Beginners - [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) - [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
-
-[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
-
--------------------------------------------
--------------------------------------------
-
-<h2> 💻 Pentesting</h2>
-
-<h3> 📜 Credentials</h3>
-
-<b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
-<br />
-
-<h3> Career Training</h3>
-
-+ (In Progress) Practical Web Application Security and Testing | TCM Security Academy - Michael Taggart
-
-<h3>Write Ups</h3>
-
-+ Connecting to TryHackMen VPN
-
-<b>Coming soon...</b><br />
-<br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
