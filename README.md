@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris! </h1>
 
-Prior military, with 20 years in SEO/Lead Gen, self-trained as a data analyst, seeking a Data Analyst & Business Intelligence role. <br />
+USMC Veteran, with 20 years in SEO/Lead Gen, and self-trained in Data Analytics & Business Intelligence / Cyber Threat Intelligence. <br />
 
 <b>PORTFOLIO LINKS ➡ [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) <br />
 
