@@ -14,9 +14,7 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 
 <h3> 💻 Pentesting</h3>
 
-  + [Credentials](https://github.com/reachchrisyoung#--pentesting-1)
-
-  + [Career Training](https://github.com/reachchrisyoung#--pentesting-1)
+  +  📜  [Credentials](https://github.com/reachchrisyoung#--pentesting-1) | [Career Training](https://github.com/reachchrisyoung#--pentesting-1)
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
