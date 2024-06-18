@@ -14,7 +14,8 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [OSINT](https://github.com/reachchrisyoung#osint) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-) | [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [OSINT](https://github.com/reachchrisyoung#osint) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-)
+     + [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
      + [Philosophy Writings](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-academic-research-experience-prior-to-cti)
 
 <h3> 🔐 Cybersecurity & Infosec </h3>
