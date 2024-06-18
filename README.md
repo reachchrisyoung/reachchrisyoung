@@ -96,7 +96,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 <h3> Career Training</h3>
 
-+ Practical Web Application Security and Testing | <b>TCM Security Academy</b> - Michael Taggart (In Progress) <br />
+[Practical Web Application Security and Testing](https://taggartinstitute.org/p/pwst) | <b>TCM Security Academy</b> and <b>TTi</b> - Michael Taggart (In Progress) <br />
 [Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) | <b>Dr. Angela Yu</b> (In-Progress) <br />
 [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) | <b>EC-Council</b><br />
 [SQL Injection Attacks](https://drive.google.com/file/d/1CbDCnEyVDam2YR5NWhiEwtqWKZucR_EQ/view?usp=sharing) | <b>EC-Council</b><br />
