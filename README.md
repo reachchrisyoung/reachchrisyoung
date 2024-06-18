@@ -6,6 +6,8 @@ USMC Veteran, with 20 years in SEO/Lead Gen, and self-trained in Data Analytics 
 
 <h2>Table of Contents:</h2>
 
+PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
+
 <h3> 🤳 Data Analytics </h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) | [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-) | [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
