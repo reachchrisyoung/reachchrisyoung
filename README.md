@@ -23,7 +23,7 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 
 <h3>💻 Pentesting</h3>
 
-  + [Career Training]
+  + [Career Training](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-pentesting-1)
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
