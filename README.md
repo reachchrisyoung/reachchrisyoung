@@ -202,11 +202,16 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
 <br />
 
-<h3>[Career Training]</h3>
+<h3> Career Training</h3>
 
 + (In Progress) Practical Web Application Security and Testing | TCM Security Academy - Michael Taggart
 
+<h3>Write Ups</h3>
 
++ Connecting to TryHackMen VPN
+
+<b>Coming soon...</b><br />
+<br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
