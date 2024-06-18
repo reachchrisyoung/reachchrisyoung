@@ -97,6 +97,13 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 <h2> CTI Project Examples </h2>
 
+<h3>OSINT</h3>
+
+- [Write Up - Intro. to OSINT | Security Blue Team]
+
+<b>Coming Soon...</b> <br />
+<br />
+
 <h3>CTI Report Outline</h3>
 
 - [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline)
