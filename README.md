@@ -22,7 +22,7 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cybersecurity--infosec--1) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
 
-<h3>💻 Pentesting</h3>
+<h3> 💻 Pentesting</h3>
 
   + [Career Training](https://github.com/reachchrisyoung#-pentesting-1)
 
@@ -193,11 +193,16 @@ In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 -------------------------------------------
 -------------------------------------------
 
-<h2>💻 Pentesting</h2>
+<h2> 💻 Pentesting</h2>
+
+<h3> 📜 Credentials</h3>
+
+<b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
+<br />
 
 <h3>[Career Training]</h3>
 
-+ Practical Web Application Security and Testing | TCM Security Academy - Michael Taggart (In Progress)
++ (In Progress) Practical Web Application Security and Testing | TCM Security Academy - Michael Taggart
 
 
 
