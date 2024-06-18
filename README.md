@@ -90,7 +90,7 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 <h3> 📜 Credentials</h3>
 
 [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br />
-[Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b>
+[Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b><br />
 [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) | <b>EC-Council</b><br />
 <br />
 
