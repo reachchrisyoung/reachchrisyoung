@@ -2,8 +2,9 @@
 
 USMC Veteran, with 20 years in SEO/Lead Gen, and self-trained in Data Analytics & Business Intelligence / Cyber Threat Intelligence. <br />
 
-<b>PORTFOLIO LINKS</b> ➡ [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) <br />
 <b>PORTFOLIO LINKS</b> ➡ [TryHackMe - Top 13%](https://tryhackme.com/p/reachchrisyoung) | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) <br />
+<b>PORTFOLIO LINKS</b> ➡ [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) <br />
+
 
 <h2>Table of Contents:</h2>
 
