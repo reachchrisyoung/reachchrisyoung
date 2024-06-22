@@ -7,15 +7,15 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 
 <h2>Summary of Contents</h2>
 
-💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)
-🔗 [Cyber Threat Intelligence](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti-)
-🤳 [Data Analytics](https://github.com/reachchrisyoung#--data-analytics-)
-🔐 [Cybersecurity & Infosec](https://github.com/reachchrisyoung#--cybersecurity--infosec-)
-✅ [Governance, Risk, and Compliance (GRC) Projects](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects-)
+💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)<br />
+🔗 [Cyber Threat Intelligence](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti-)<br />
+🤳 [Data Analytics](https://github.com/reachchrisyoung#--data-analytics-)<br />
+🔐 [Cybersecurity & Infosec](https://github.com/reachchrisyoung#--cybersecurity--infosec-)<br />
+✅ [Governance, Risk, and Compliance (GRC) Projects](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects-)<br />
 
 <h3>Table of Contents:</h3>
 
-PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
+<b>PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...</b>
 
 <h3> 💻 Pentesting</h3>
 
