@@ -16,7 +16,7 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 
 <h3> 💻 Pentesting</h3>
 
-  +  📜  [Credentials](https://github.com/reachchrisyoung#--pentesting-1) | [Career Training](https://github.com/reachchrisyoung#--pentesting-1)
+  +  📜  [Credentials](https://github.com/reachchrisyoung#--pentesting-1) | [Career Training](https://github.com/reachchrisyoung#--pentesting-1) | [Write-Ups:]
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
@@ -107,6 +107,10 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 <br />
 
 <h3>Write Ups</h3>
+
+<h4>OWASP Top 10</h4>
+
++ [A03 - Injections](https://github.com/reachchrisyoung/Write-Up-A03-Injection/tree/main?tab=readme-ov-file#readme)
 
 + Connecting to TryHackMe VPN
 
