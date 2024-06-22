@@ -157,8 +157,6 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 <h3> 📜 Data Analytics Credentials</h3>
 
 <b>Break Into Tech</b> | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i> <br />
-<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 1](https://drive.google.com/file/d/1Np0lTHXC2bHtKLBUhybplF5RNESLzsu7/view?usp=sharing) <b><i>- R. Hunt</b></i> <br />
-<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 2](https://drive.google.com/file/d/1FSkNR3pG-Gkezs8jsmNP39U0IedxZFHl/view?usp=sharing) <b><i>- R. Hunt</b></i> <br />
 <b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
 <b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 <b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
@@ -180,23 +178,23 @@ In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro
 
 <h4> COVID-19 Rates Dashboard. </h4> 
 
-- Quantified COVID-19 vaccination rates over time, by country, and by income group; published a Tableau dashboard to visualize results. <br />
+Quantified COVID-19 vaccination rates over time, by country, and by income group; published a Tableau dashboard to visualize results. <br />
 
 <h4> Product Revenue Dashboard. </h4> 
 
-- Identified the lowest and highest of stores' sales rates, quantifying both product revenue and average revenue by account.  Published Tableau dashboard to track KPIs. <br />
+Identified the lowest and highest of stores' sales rates, quantifying both product revenue and average revenue by account.  Published Tableau dashboard to track KPIs. <br />
 
 <h4> Superstore Sales and Profitability Executive Dashboard. </h4>
 
-- Quantified sales, profitability, profit ratio, and sales per customer. Visualized profit ratio by city on US map.  Distributed monthly sales by segment and category, over time, by profitable vs. unprofitable orders. <br />
+Quantified sales, profitability, profit ratio, and sales per customer. Visualized profit ratio by city on US map.  Distributed monthly sales by segment and category, over time, by profitable vs. unprofitable orders. <br />
 
 <h4> Electronic Store Database Design. </h4>
 
-- eCommerce store database design in SQL; analyzed product stats. <br />
+eCommerce store database design in SQL; analyzed product stats. <br />
 
 <h4> Chinook Business Intelligence. </h4>
 
-- Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents. <br />
+Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents. <br />
 
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
