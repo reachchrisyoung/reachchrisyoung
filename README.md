@@ -35,7 +35,7 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cybersecurity--infosec--1) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
 
-<h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
+<h3> ✅ Governance, Risk, and Compliance (GRC) </h3>
 
   + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects--1) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
