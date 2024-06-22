@@ -5,14 +5,17 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 <b>PORTFOLIO LINKS</b> ➡ [TryHackMe](https://tryhackme.com/p/reachchrisyoung) - Top 13% | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) <br />
 <b>PORTFOLIO LINKS</b> ➡ [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) <br />
 
+<h2>Summary of Contents</h2>
 
-<h2>Table of Contents:</h2>
+💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)
+🔗 [Cyber Threat Intelligence](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti-)
+🤳 [Data Analytics](https://github.com/reachchrisyoung#--data-analytics-)
+🔐 [Cybersecurity & Infosec](https://github.com/reachchrisyoung#--cybersecurity--infosec-)
+✅ [Governance, Risk, and Compliance (GRC) Projects](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects-)
+
+<h3>Table of Contents:</h3>
 
 PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
-
-<h3> 🤳 Data Analytics </h3>
-
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) | [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-) | [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
 
 <h3> 💻 Pentesting</h3>
 
@@ -24,6 +27,10 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
      + [OSINT](https://github.com/reachchrisyoung#osint) | [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
      + [Philosophy Writings](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-academic-research-experience-prior-to-cti)
 
+<h3> 🤳 Data Analytics </h3>
+
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) | [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-) | [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
+
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cybersecurity--infosec--1) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
@@ -31,58 +38,6 @@ PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...
 <h3> ✅ Governance, Risk, and Compliance (GRC) Projects </h3>
 
   + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects--1) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
-
--------------------------------------------
--------------------------------------------
-
-<h2> 🤳 Data Analytics</h2>
-
-<h3> 📜 Data Analytics Credentials</h3>
-
-<b>Break Into Tech</b> | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i> <br />
-<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 1](https://drive.google.com/file/d/1Np0lTHXC2bHtKLBUhybplF5RNESLzsu7/view?usp=sharing) <b><i>- R. Hunt</b></i> <br />
-<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 2](https://drive.google.com/file/d/1FSkNR3pG-Gkezs8jsmNP39U0IedxZFHl/view?usp=sharing) <b><i>- R. Hunt</b></i> <br />
-<b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
-<b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
-<b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
-
-<h3> Data Analytics Training </h3>
-
-In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro Bootcamp <br />
-<b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <b><i>- R. Hunt</b></i> <br />
-<b>W3Schools</b> | Statistics - SQL <br />
-<b>Codecademy</b> | Learn SQL <br />
-<b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
-<b>SQLBolt</b> | Intro. to SQL <br />
-<b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
-<b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
-<b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
-<h3> Data Analytics & Visualization Project Examples </h3>
-
-[SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) <br />
-
-<h4> COVID-19 Rates Dashboard. </h4> 
-
-- Quantified COVID-19 vaccination rates over time, by country, and by income group; published a Tableau dashboard to visualize results. <br />
-
-<h4> Product Revenue Dashboard. </h4> 
-
-- Identified the lowest and highest of stores' sales rates, quantifying both product revenue and average revenue by account.  Published Tableau dashboard to track KPIs. <br />
-
-<h4> Superstore Sales and Profitability Executive Dashboard. </h4>
-
-- Quantified sales, profitability, profit ratio, and sales per customer. Visualized profit ratio by city on US map.  Distributed monthly sales by segment and category, over time, by profitable vs. unprofitable orders. <br />
-
-<h4> Electronic Store Database Design. </h4>
-
-- eCommerce store database design in SQL; analyzed product stats. <br />
-
-<h4> Chinook Business Intelligence. </h4>
-
-- Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents. <br />
-
-
-[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
 -------------------------------------------
@@ -191,6 +146,58 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 + Sponsor: A. Talbot, M. S. (2018) Microbiology - [Efficacy on Bacteria: Aged Triple Antibiotic](https://docs.google.com/presentation/d/1ceSxtELlXkxYwVZsx1CUFRgu3Yc7ooYAjCRD0gqRGJc/edit?usp=sharing)
 
 + Sponsor: K. Amolsch, M. A. (2014) Ethnography - [Emergency Room Physicians](https://drive.google.com/file/d/1x23EfyfvKLTaeg-hcSAIXoTa6cchuBom/view?usp=sharing)
+
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
+
+-------------------------------------------
+-------------------------------------------
+
+<h2> 🤳 Data Analytics</h2>
+
+<h3> 📜 Data Analytics Credentials</h3>
+
+<b>Break Into Tech</b> | [Data Analytics Professional](https://drive.google.com/file/d/14xGfHc_UG-yQAbFFt2G_M9WR02H6WG71/view?usp=sharing) <b><i>- C. Chaze</b></i> <br />
+<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 1](https://drive.google.com/file/d/1Np0lTHXC2bHtKLBUhybplF5RNESLzsu7/view?usp=sharing) <b><i>- R. Hunt</b></i> <br />
+<b>ThinkData Solutions, Inc.</b> | [Learning Data Analytics 2](https://drive.google.com/file/d/1FSkNR3pG-Gkezs8jsmNP39U0IedxZFHl/view?usp=sharing) <b><i>- R. Hunt</b></i> <br />
+<b>HackerRank</b> | [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) <br />
+<b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
+<b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
+
+<h3> Data Analytics Training </h3>
+
+In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro Bootcamp <br />
+<b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <b><i>- R. Hunt</b></i> <br />
+<b>W3Schools</b> | Statistics - SQL <br />
+<b>Codecademy</b> | Learn SQL <br />
+<b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
+<b>SQLBolt</b> | Intro. to SQL <br />
+<b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
+<b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
+<b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
+<h3> Data Analytics & Visualization Project Examples </h3>
+
+[SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) <br />
+
+<h4> COVID-19 Rates Dashboard. </h4> 
+
+- Quantified COVID-19 vaccination rates over time, by country, and by income group; published a Tableau dashboard to visualize results. <br />
+
+<h4> Product Revenue Dashboard. </h4> 
+
+- Identified the lowest and highest of stores' sales rates, quantifying both product revenue and average revenue by account.  Published Tableau dashboard to track KPIs. <br />
+
+<h4> Superstore Sales and Profitability Executive Dashboard. </h4>
+
+- Quantified sales, profitability, profit ratio, and sales per customer. Visualized profit ratio by city on US map.  Distributed monthly sales by segment and category, over time, by profitable vs. unprofitable orders. <br />
+
+<h4> Electronic Store Database Design. </h4>
+
+- eCommerce store database design in SQL; analyzed product stats. <br />
+
+<h4> Chinook Business Intelligence. </h4>
+
+- Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents. <br />
+
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
