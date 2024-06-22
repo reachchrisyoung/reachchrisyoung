@@ -81,11 +81,29 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 
 <h3> 📜 CTI Credentials </h3>
 
-In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
+[Cyber Threat Intelligence 101](https://www.antisyphontraining.com/event/cyber-threat-intelligence-101-w-wade-wells-2/) | <b>Antisyphon Training</b> – Mr. Wade Wells<br />
+
+Illustrated why feedback is key, the Lockheed Kill Chain, Pyramid of Pain, threat intelligence platforms & OSINT feeds. <br />
+Hands-on Labs: <br /> 
+Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.
+Hands-on Labs in:
++ Threat intelligence lifecycle, including concise & compelling reporting tactics.
++ Implementing the MITRE ATT&CK Matrix & Navigator.
++ Threat modeling, threat landscaping & threat profiling.
++ Scoring & charting priority intelligence requirements.
++ Biases in cyber threat intelligence.
+<br />
+<br />
+<b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
 <b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
-<b>CISA</b> | [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) <br />
+<br />
+<br />
+<b>CISA</b> | [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE) <br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 <b>Security Blue Team</b> | [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) <br />
+<br />
+<b>In Progress</b> <br />
+<b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 <h2> CTI Project Examples </h2>
 
@@ -163,18 +181,33 @@ In Progress - <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
 <h3> Data Analytics Training </h3>
 
-In-Progress - <b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro Bootcamp <br />
+<b>In Progress</b> <br />
+<br />
+<b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro Bootcamp <br />
+<br />
+<b>Data Analytics Training & Information Management</b>
 <b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <b><i>- R. Hunt</b></i> <br />
-<b>W3Schools</b> | Statistics - SQL <br />
-<b>Codecademy</b> | Learn SQL <br />
-<b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
-<b>SQLBolt</b> | Intro. to SQL <br />
 <b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
-<b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers (Fall 2017) <br />
+<br />
+<br />
+<b>SQL</b>
+<b>W3Schools</b> | SQL <br />
+<b>Codecademy</b> | Learn SQL <br />
+<b>SQLBolt</b> | Intro. to SQL <br />
+<b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
+
+<b>Statistcs</b>
+<b>Wayne State University</b> - STA-1020 - Statistics
+<b>W3Schools</b> | Statistics<br />
+<br />
+<b>Presentation & Report Drafting</b>
+<b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers <br />
 <b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
+
 <h3> Data Analytics & Visualization Project Examples </h3>
 
-[SQL Portfolio](https://github.com/reachchrisyoung/SQL) & [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) <br />
+[SQL Portfolio](https://github.com/reachchrisyoung/SQL)<br />
+[Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)<br />
 
 <h4> COVID-19 Rates Dashboard. </h4> 
 
