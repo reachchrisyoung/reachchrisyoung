@@ -196,8 +196,7 @@ Investigating exposure to common vulnerabilities that can lead to cybersecurity 
 <b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <b><i>- R. Hunt</b></i> <br />
 <b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 <br />
-<br />
-<b>SQL</b>
+<b>SQL</b><br />
 <b>W3Schools</b> | SQL <br />
 <b>Codecademy</b> | Learn SQL <br />
 <b>SQLBolt</b> | Intro. to SQL <br />
