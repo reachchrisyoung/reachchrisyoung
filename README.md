@@ -100,7 +100,7 @@ Covered types of threat vectors & vulnerabilities from an organization’s persp
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 <br />
 <b>Security Blue Team</b> | [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) <br />
-<br />
+
 <b>In Progress</b> <br />
 <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
 
