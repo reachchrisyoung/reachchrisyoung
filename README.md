@@ -90,22 +90,22 @@ Hands-on Labs in: <br />
 + Scoring & charting priority intelligence requirements.
 + Biases in cyber threat intelligence.
 
-<b>SANS Institute</b> | [Cyber Threat Intelligence Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing)<br />
+[Cyber Threat Intelligence Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) | <b>SANS Institute</b><br />
 <br />
-<b>ArcX</b> | [Foundation Level Threat Intelligence Analyst Certification](https://arcx.io/courses/cyber-threat-intelligence-101)<br />
+[Foundation Level Threat Intelligence Analyst Certification](https://arcx.io/courses/cyber-threat-intelligence-101) | <b>ArcX</b><br />
 Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.<br />
 <br />
-<b>XM Cyber</b> | [Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D<br />
+[Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br />
 Investigating exposure to common vulnerabilities that can lead to cybersecurity compromise relative to NIST CSF. Continuous threat exposure management encompassing attack surface, vulnerabilities, validation, and prioritization.  Maturing the organization’s cybersecurity posture through the lens of professionals in GRC, SOC, CEH & CISO/Board.<br />
 <br />
-<b>CISA</b> | [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE)<br />
+[Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE) | <b>CISA</b><br />
 <br />
-<b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing)<br />
+[Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) | <b>IBM</b><br />
  <br />
-<b>Security Blue Team</b> | [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing)<br />
+[Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
 <br />
 <b>In Progress</b> <br />
-<b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
+Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 
 <h2> CTI Project Examples </h2>
 
@@ -246,8 +246,9 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 
 <h3> Conferences </h3>
 
+<b>Antisyphon Training (BHIS)</b> | [Incident Response (IR) Summit 2024](https://drive.google.com/file/d/1IL7SA73U0BCv5bLPmtixdI64qZCxQh5g/view?usp=sharing) <br />
 <b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
-<b>Black Hills Information Security</b> | [The Most Offensive Con That Ever Offensived: ByPass Edition 2024](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) <b><i>- John Strand</b></i> <br />
+<b>Antisyphon Training (BHIS)</b> | [The Most Offensive Con That Ever Offensived: ByPass Edition 2024](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) <b><i>- John Strand</b></i> <br />
 <b>Simply Cyber</b> | [Simply Cyber Con 2023](https://drive.google.com/file/d/1qqKSAuyZF5Yhhq97_RsGSrkGiXDK5BVJ/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 <b>VetSec</b> | VetSec Con 2023 <br /> 
 
