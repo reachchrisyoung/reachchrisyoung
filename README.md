@@ -82,24 +82,23 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 <h3> 📜 CTI Credentials </h3>
 
 [Cyber Threat Intelligence 101](https://www.antisyphontraining.com/event/cyber-threat-intelligence-101-w-wade-wells-2/) | <b>Antisyphon Training</b> – Mr. Wade Wells<br />
-
 Illustrated why feedback is key, the Lockheed Kill Chain, Pyramid of Pain, threat intelligence platforms & OSINT feeds. <br />
-Hands-on Labs: <br /> 
-Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.
-Hands-on Labs in:
+Hands-on Labs in: <br />
 + Threat intelligence lifecycle, including concise & compelling reporting tactics.
 + Implementing the MITRE ATT&CK Matrix & Navigator.
 + Threat modeling, threat landscaping & threat profiling.
 + Scoring & charting priority intelligence requirements.
-+ Biases in cyber threat intelligence.
-<br />
++ Biases in cyber threat intelligence.<br />
 <br />
 <b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
-<b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 <br />
+<b>ArcX</b> | [Certified Threat Intelligence Analyst - Foundations](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
+Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.<br />
 <br />
 <b>CISA</b> | [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE) <br />
+<br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
+<br />
 <b>Security Blue Team</b> | [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) <br />
 <br />
 <b>In Progress</b> <br />
