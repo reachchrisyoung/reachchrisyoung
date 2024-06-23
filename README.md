@@ -57,7 +57,7 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 [SQL Injection Attacks](https://drive.google.com/file/d/1CbDCnEyVDam2YR5NWhiEwtqWKZucR_EQ/view?usp=sharing) | <b>EC-Council</b><br />
 [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
 <br />
-<b>In Progress</b>
+<b>In Progress</b><br />
 [Practical Web Application Security and Testing](https://taggartinstitute.org/p/pwst) | <b>TCM Security Academy</b> and <b>TTi</b> - Michael Taggart <br />
 [Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) | <b>Dr. Angela Yu</b> <br />
 
