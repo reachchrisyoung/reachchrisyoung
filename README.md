@@ -292,12 +292,23 @@ Hands-on labs introducing red and blue team topics, including:
 + [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
 + [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) <br />
 <br />
+
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
 -------------------------------------------
 
 <h2> ✅ Governance, Risk, and Compliance (GRC) Projects: </h2>
+
+<h3> 📜 Credentials</h3>
+
+<b>Simply Cyber</b> | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing)<b><i>- Gerald Auger, Ph.D</b></i><br />
+Hands-on Labs provided insight beyond hacking, discovering what organizations utilize to limit core technology access.<br />
++ Cybersecurity Risk
+  + Semi-quantitative risk analysis using NIST SP 800-30 methodology to identify system weaknesses.
+  + Executed threat modeling exercise to determine higher likelihood threats informing risk modeling.
++ Compliance/Audit
+  + Prepared, executed, and reported on audit of subset of NIST SP 800-53 controls and NIST CSF.
 
 <h3> 🏅 Accomplishments </h3>
 
