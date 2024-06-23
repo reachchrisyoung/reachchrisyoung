@@ -287,12 +287,11 @@ Hands-on labs introducing red and blue team topics, including:
 + System Auditing with Lynis
 + Configuring a Firewall
 
-<br />
 <b>EC-Council</b> 
 + [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) <br />
 + [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
 + [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) <br />
-
+<br />
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
