@@ -89,6 +89,7 @@ Hands-on Labs in: <br />
 + Threat modeling, threat landscaping & threat profiling.
 + Scoring & charting priority intelligence requirements.
 + Biases in cyber threat intelligence.
+
 <b>SANS Institute</b> | Cyber Threat Intelligence Summit 2024
 <br />
 <br />
