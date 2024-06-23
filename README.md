@@ -257,10 +257,40 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 In-Progress - <b> Level Effect </b> | IT Fundamentals <br />
 In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <b>Simply Cyber</b> | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing)<b><i>- Gerald Auger, Ph.D</b></i><br />
+Hands-on Labs provided insight beyond hacking, discovering what organizations utilize to limit core technology access.<br />
+
++ Cybersecurity Risk
+  + Semi-quantitative risk analysis using NIST SP 800-30 methodology to identify system weaknesses.
+  + Executed threat modeling exercise to determine higher likelihood threats informing risk modeling.
+
++ Compliance/Audit
+  + Prepared, executed, and reported on audit of subset of NIST SP 800-53 controls and NIST CSF.
+
+
+
+
 <b>Simply Cyber</b> | [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
+Hands-on labs introducing red and blue team topics, including:
+
++ Hiding Data in Pictures with Steganography
++ Establish Brute Forcing Access with Hydra
++ Launch a Denial of Service Attack
++ Phishing Toolkit to Harvest Credentials
++ Deploying and Detecting Rootkit Malware
++ Nmap for Network and System Reconnaissance
++ System Auditing with Lynis
++ Configuring a Firewall
+
 <b>Antisyphon Training</b> | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
+Hands-on Labs elevated understanding in networking, exposure to Windows PowerShell, Windows & Linux command line, Active Directory, network threat hunting, and basics of vulnerability management & IR processes. <br />
+
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
-<b>EC-Council</b> | [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) - [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) - [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
+Hands-on labs to more deeply understand networking concepts and further engage with ports. Practiced packet analysis using Wireshark and TCPDump.  Used open-source tools, like VirusTotal & URLScan, to assess risk. <br />
+<br />
+<b>EC-Council</b> 
++ [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) <br />
++ [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
++ [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) <br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
