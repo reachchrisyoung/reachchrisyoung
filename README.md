@@ -90,7 +90,7 @@ Hands-on Labs in: <br />
 + Scoring & charting priority intelligence requirements.
 + Biases in cyber threat intelligence.<br />
 <br />
-[Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) - <b>SANS Institute</b>
+[Cyber Threat Intelligence Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) - <b>SANS Institute</b>
 <br />
 
 <br />
