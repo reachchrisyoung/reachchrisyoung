@@ -88,23 +88,27 @@ Hands-on Labs in: <br />
 + Implementing the MITRE ATT&CK Matrix & Navigator.
 + Threat modeling, threat landscaping & threat profiling.
 + Scoring & charting priority intelligence requirements.
-+ Biases in cyber threat intelligence.<br />
-<br />
-[Cyber Threat Intelligence Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) - <b>SANS Institute</b>
-<br />
-
++ Biases in cyber threat intelligence.
 <br />
 <br />
-<b>ArcX</b> | [Foundation Level Threat Intelligence Analyst Certification](https://arcx.io/courses/cyber-threat-intelligence-101) <br />
+<b>SANS Institute</b> | Cyber Threat Intelligence Summit 2024
+<br />
+<br />
+<b>ArcX</b> | Foundation Level Threat Intelligence Analyst Certification<br />
+https://arcx.io/courses/cyber-threat-intelligence-101 <br />
 Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.<br />
 <br />
-<b>CISA</b> | [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE) <br />
+<b>CISA</b> | Introduction to Cyber Intelligence (ICW FedVTE)<br />
+(https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) <br />
 <br />
-<b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
+<b>IBM</b> | Cyber Threat Intelligence<br />
+(https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) <br />
 <br />
-<b>Security Blue Team</b> | [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) <br />
+<b>Security Blue Team</b> | Introduction to OSINT<br />
+https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing <br />
 <br />
-<b>XM Cyber</b>[Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D
+<b>XM Cyber</b> | Exposure Management Certification – Gerald Auger, Ph.D<br />
+https://xm-cyber.thinkific.com/courses/exposure-management-certification<br />
 Investigating exposure to common vulnerabilities that can lead to cybersecurity compromise relative to NIST CSF. Continuous threat exposure management encompassing attack surface, vulnerabilities, validation, and prioritization.  Maturing the organization’s cybersecurity posture through the lens of professionals in GRC, SOC, CEH & CISO/Board.
 <br />
 <br />
@@ -115,9 +119,7 @@ Investigating exposure to common vulnerabilities that can lead to cybersecurity 
 
 <h3>OSINT</h3>
 
-- [Write Up - Intro. to OSINT | Security Blue Team]
-
-<b>Coming Soon...</b> <br />
+- [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b> <br />
 <br />
 
 <h3>CTI Report Outline</h3>
