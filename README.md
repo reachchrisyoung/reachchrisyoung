@@ -258,15 +258,12 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 <b> Level Effect </b> | IT Fundamentals <br />
 <b> Security Blue Team </b> | Intro. to Network Analysis <br />
 <br />
-
 <b>Antisyphon Training</b> | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
 Hands-on Labs elevated understanding in networking, exposure to Windows PowerShell, Windows & Linux command line, Active Directory, network threat hunting, and basics of vulnerability management & IR processes. <br />
 <br />
-
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
 Hands-on labs to more deeply understand networking concepts and further engage with ports. Practiced packet analysis using Wireshark and TCPDump.  Used open-source tools, like VirusTotal & URLScan, to assess risk. <br />
 <br />
-
 <b>Simply Cyber</b> | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing)<b><i>- Gerald Auger, Ph.D</b></i><br />
 Hands-on Labs provided insight beyond hacking, discovering what organizations utilize to limit core technology access.<br />
 + Cybersecurity Risk
@@ -275,6 +272,9 @@ Hands-on Labs provided insight beyond hacking, discovering what organizations ut
 + Compliance/Audit
   + Prepared, executed, and reported on audit of subset of NIST SP 800-53 controls and NIST CSF.
 
+[Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br />
+Investigating exposure to common vulnerabilities that can lead to cybersecurity compromise relative to NIST CSF. Continuous threat exposure management encompassing attack surface, vulnerabilities, validation, and prioritization.  Maturing the organization’s cybersecurity posture through the lens of professionals in GRC, SOC, CEH & CISO/Board.<br />
+<br />
 <b>Simply Cyber</b> | [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 Hands-on labs introducing red and blue team topics, including:
 
@@ -286,7 +286,6 @@ Hands-on labs introducing red and blue team topics, including:
 + Nmap for Network and System Reconnaissance
 + System Auditing with Lynis
 + Configuring a Firewall
-
 
 <br />
 <b>EC-Council</b> 
