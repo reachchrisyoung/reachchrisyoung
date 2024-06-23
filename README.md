@@ -324,6 +324,7 @@ Hands-on labs introducing red and blue team topics, including:
 + [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
   + Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
 
+
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
