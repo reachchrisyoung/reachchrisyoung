@@ -94,21 +94,16 @@ Hands-on Labs in: <br />
 <br />
 <br />
 <b>ArcX</b> | [Foundation Level Threat Intelligence Analyst Certification](https://arcx.io/courses/cyber-threat-intelligence-101)<br />
- <br />
 Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.<br />
 <br />
 <b>CISA</b> | [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE)<br />
- <br />
 <br />
 <b>IBM</b> | [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing)<br />
  <br />
-<br />
 <b>Security Blue Team</b> | [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing)<br />
-
 <br />
 <b>XM Cyber</b> | [Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D<br />
-Investigating exposure to common vulnerabilities that can lead to cybersecurity compromise relative to NIST CSF. Continuous threat exposure management encompassing attack surface, vulnerabilities, validation, and prioritization.  Maturing the organization’s cybersecurity posture through the lens of professionals in GRC, SOC, CEH & CISO/Board.
-<br />
+Investigating exposure to common vulnerabilities that can lead to cybersecurity compromise relative to NIST CSF. Continuous threat exposure management encompassing attack surface, vulnerabilities, validation, and prioritization.  Maturing the organization’s cybersecurity posture through the lens of professionals in GRC, SOC, CEH & CISO/Board.<br />
 <br />
 <b>In Progress</b> <br />
 <b>CISA</b> | Certified Cyber Threat Intelligence Analyst <br />
