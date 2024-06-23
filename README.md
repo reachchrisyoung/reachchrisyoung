@@ -254,20 +254,26 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 
 <h3> Infosec Training </h3>
 
-In-Progress - <b> Level Effect </b> | IT Fundamentals <br />
-In-Progress - <b> Security Blue Team </b> | Intro. to Network Analysis <br />
+<b>In-Progress</b> <br />
+<b> Level Effect </b> | IT Fundamentals <br />
+<b> Security Blue Team </b> | Intro. to Network Analysis <br />
+<br />
+
+<b>Antisyphon Training</b> | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
+Hands-on Labs elevated understanding in networking, exposure to Windows PowerShell, Windows & Linux command line, Active Directory, network threat hunting, and basics of vulnerability management & IR processes. <br />
+<br />
+
+<b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
+Hands-on labs to more deeply understand networking concepts and further engage with ports. Practiced packet analysis using Wireshark and TCPDump.  Used open-source tools, like VirusTotal & URLScan, to assess risk. <br />
+<br />
+
 <b>Simply Cyber</b> | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing)<b><i>- Gerald Auger, Ph.D</b></i><br />
 Hands-on Labs provided insight beyond hacking, discovering what organizations utilize to limit core technology access.<br />
-
 + Cybersecurity Risk
   + Semi-quantitative risk analysis using NIST SP 800-30 methodology to identify system weaknesses.
   + Executed threat modeling exercise to determine higher likelihood threats informing risk modeling.
-
 + Compliance/Audit
   + Prepared, executed, and reported on audit of subset of NIST SP 800-53 controls and NIST CSF.
-
-
-
 
 <b>Simply Cyber</b> | [Cyber 101](https://drive.google.com/file/d/1RE7irO50tOZjrKd0T1MMoi5mjchU_F6E/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 Hands-on labs introducing red and blue team topics, including:
@@ -281,11 +287,7 @@ Hands-on labs introducing red and blue team topics, including:
 + System Auditing with Lynis
 + Configuring a Firewall
 
-<b>Antisyphon Training</b> | [SOC Core Skills](https://drive.google.com/file/d/1RXM5xwPOQYMv1iG1KqJn87vHZzE20vwe/view?usp=sharing) <b><i>- John Strand </b></i> <br />
-Hands-on Labs elevated understanding in networking, exposure to Windows PowerShell, Windows & Linux command line, Active Directory, network threat hunting, and basics of vulnerability management & IR processes. <br />
 
-<b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
-Hands-on labs to more deeply understand networking concepts and further engage with ports. Practiced packet analysis using Wireshark and TCPDump.  Used open-source tools, like VirusTotal & URLScan, to assess risk. <br />
 <br />
 <b>EC-Council</b> 
 + [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) <br />
