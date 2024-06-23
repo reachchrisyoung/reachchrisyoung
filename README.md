@@ -189,12 +189,11 @@ Investigating exposure to common vulnerabilities that can lead to cybersecurity 
 <h3> Data Analytics Training </h3>
 
 <b>In Progress</b> <br />
+Python: 100 Days of Code | Udemy - <b> Dr. Angela Yu </b>  <br />
 <br />
-<b> Dr. Angela Yu </b> | 100 Days of Code: The Complete Python Pro Bootcamp <br />
-<br />
-<b>Data Analytics Training & Information Management</b>
+<b>Data Analytics Training & Information Management</b><br />
 <b>ThinkData Solutions, Inc.</b> | Learning Data Analytics 1 & 2 <b><i>- R. Hunt</b></i> <br />
-<b>ARMA Int'l</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
+<b>ARMA International</b> | Avoiding Common Mistakes in Electronic Records Management (Summer 2017) <b><i>- D. Gearhart, Ph.D</b></i> <br />
 <br />
 <b>SQL</b><br />
 <b>W3Schools</b> | SQL <br />
@@ -202,11 +201,12 @@ Investigating exposure to common vulnerabilities that can lead to cybersecurity 
 <b>SQLBolt</b> | Intro. to SQL <br />
 <b>Khan Academy</b> | SQL: Querying & Managing Data <b><i>- P. Fox </b></i> <br />
 
-<b>Statistcs</b>
-<b>Wayne State University</b> - STA-1020 - Statistics
+<b>Statistcs</b><br />
+<b>Wayne State University</b> - STA-1020 - Statistics<br />
+<b>Wayne State University</b> - COM-4210 - Research Methods<br />
 <b>W3Schools</b> | Statistics<br />
 <br />
-<b>Presentation & Report Drafting</b>
+<b>Presentation & Report Drafting</b> <br />
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers <br />
 <b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
 
