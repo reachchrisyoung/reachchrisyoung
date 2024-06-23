@@ -106,7 +106,7 @@ Covered types of threat vectors & vulnerabilities from an organization’s persp
 <b>Security Blue Team</b> | Introduction to OSINT<br />
 https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing <br />
 <br />
-<b>XM Cyber</b> | Exposure Management Certification – Gerald Auger, Ph.D<br />
+<b>XM Cyber</b> | [Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D<br />
 https://xm-cyber.thinkific.com/courses/exposure-management-certification<br />
 Investigating exposure to common vulnerabilities that can lead to cybersecurity compromise relative to NIST CSF. Continuous threat exposure management encompassing attack surface, vulnerabilities, validation, and prioritization.  Maturing the organization’s cybersecurity posture through the lens of professionals in GRC, SOC, CEH & CISO/Board.
 <br />
