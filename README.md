@@ -246,7 +246,7 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 
 <h3> Conferences </h3>
 
-<b>Antisyphon Training (BHIS)</b> | [Incident Response (IR) Summit 2024](https://drive.google.com/file/d/1IL7SA73U0BCv5bLPmtixdI64qZCxQh5g/view?usp=sharing) <br />
+<b>Antisyphon Training (BHIS)</b> | [Incident Response (IR) Summit 2024](https://drive.google.com/file/d/1IL7SA73U0BCv5bLPmtixdI64qZCxQh5g/view?usp=sharing) <b><i>- Eric Taylor</b></i> <br />
 <b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
 <b>Antisyphon Training (BHIS)</b> | [The Most Offensive Con That Ever Offensived: ByPass Edition 2024](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) <b><i>- John Strand</b></i> <br />
 <b>Simply Cyber</b> | [Simply Cyber Con 2023](https://drive.google.com/file/d/1qqKSAuyZF5Yhhq97_RsGSrkGiXDK5BVJ/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
