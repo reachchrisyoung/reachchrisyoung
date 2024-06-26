@@ -310,7 +310,7 @@ Hands-on Labs provided insight beyond hacking, discovering what organizations ut
 + Compliance/Audit
   + Prepared, executed, and reported on audit of subset of NIST SP 800-53 controls and NIST CSF.
 
-<h3>NIST Risk Management Framework (RMF) Credentials</h3>
+<h4>NIST Risk Management Framework (RMF) Credentials</h4>
 
 NIST SP 800-37 - [Risk Management Framework for Systems and Organizations Introductory Course Version 2.0](https://drive.google.com/file/d/1KQWZC2f4_7msxc-vHTzGN8Xa3GYFDykH/view?usp=sharing)<br />
 + An [overview](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/rmf-training/intro-course-v2_0/index.html) of a methodology for organizational security and privacy risk management developed by the National Institute of Standards and Technology (NIST).  The purpose of this course is to provide people new to risk management with an overview of a methodology for managing organizational risk in accordance with NIST Special Publication (SP) 800-37, Revision 2.  For individuals with experience with NIST SP 800-37, Revision 1, this course explains updates to the RMF in Revision 2, including the integration of privacy and supply chain risk management into this holistic process.  The RMF provides a disciplined, structured, and flexible process for managing security and privacy risk that includes information security categorization; control selection, implementation, and assessment; system and common control authorizations; and continuous monitoring.  This course describes, at a high-level, the importance of establishing an organization-wide risk management program, the information security legislation related to organizational risk management, the steps in the RMF, and the NIST publications related to each step. 
