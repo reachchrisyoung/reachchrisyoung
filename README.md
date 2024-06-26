@@ -7,6 +7,7 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 
 <h2>Summary of Contents</h2>
 
+<b>PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED TABLE OF CONTENTS SECTION...</b>
 
 🔗 [Cyber Threat Intelligence](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti-)<br />
 💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)<br />
