@@ -7,8 +7,9 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 
 <h2>Summary of Contents</h2>
 
-💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)<br />
+
 🔗 [Cyber Threat Intelligence](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti-)<br />
+💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)<br />
 🤳 [Data Analytics](https://github.com/reachchrisyoung#--data-analytics-)<br />
 🔐 [Cybersecurity & Infosec](https://github.com/reachchrisyoung#--cybersecurity--infosec-)<br />
 ✅ [Governance, Risk, and Compliance (GRC) Projects](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects-)<br />
@@ -17,15 +18,15 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 
 <b>PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED SECTION...</b>
 
-<h3> 💻 Pentesting</h3>
-
-  +  📜  [Credentials](https://github.com/reachchrisyoung#--pentesting-1) | [Career Training](https://github.com/reachchrisyoung#--pentesting-1) | [Write-Ups](https://github.com/reachchrisyoung#write-ups)
-
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-)
      + [OSINT](https://github.com/reachchrisyoung#osint) | [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
      + [Philosophy Writings](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-academic-research-experience-prior-to-cti)
+
+<h3> 💻 Pentesting</h3>
+
+  +  📜  [Credentials](https://github.com/reachchrisyoung#--pentesting-1) | [Career Training](https://github.com/reachchrisyoung#--pentesting-1) | [Write-Ups](https://github.com/reachchrisyoung#write-ups)
 
 <h3> 🤳 Data Analytics </h3>
 
@@ -41,42 +42,6 @@ USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in 
 
 -------------------------------------------
 -------------------------------------------
-
-<h2> 💻 Pentesting</h2>
-
-<h3> 📜 Credentials</h3>
-
-[Python (Basic) Certificate](https://drive.google.com/file/d/1dPNBanbf5HWSu_nZ11aR0e7LVEVxrcH5/view?usp=sharing) | <b>HackerRank</b><br />
-[SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br />
-[Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b><br />
-[Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) | <b>EC-Council</b><br />
-
-<h3> Career Training</h3>
-
-[Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) | <b>EC-Council</b><br />
-[SQL Injection Attacks](https://drive.google.com/file/d/1CbDCnEyVDam2YR5NWhiEwtqWKZucR_EQ/view?usp=sharing) | <b>EC-Council</b><br />
-[Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
-<br />
-<b>In Progress</b><br />
-[Practical Web Application Security and Testing](https://taggartinstitute.org/p/pwst) | <b>TCM Security Academy</b> and <b>TTi</b> - Michael Taggart <br />
-[Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) | <b>Dr. Angela Yu</b> <br />
-
-<h3>Write Ups</h3>
-
-<h4>OWASP Top 10</h4>
-
-+ [A03 - Injections](https://github.com/reachchrisyoung/Write-Up-A03-Injection/tree/main?tab=readme-ov-file#readme)
-
-+ Connecting to TryHackMe VPN
-
-<b>Coming soon...</b><br />
-<br />
-
-[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
-
--------------------------------------------
--------------------------------------------
-
 <h2> 🔗 Cyber Threat Intelligence (CTI) </h2>
 
 <h3> 📜 CTI Credentials </h3>
@@ -169,6 +134,42 @@ Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 
 -------------------------------------------
 -------------------------------------------
+
+<h2> 💻 Pentesting</h2>
+
+<h3> 📜 Credentials</h3>
+
+[Python (Basic) Certificate](https://drive.google.com/file/d/1dPNBanbf5HWSu_nZ11aR0e7LVEVxrcH5/view?usp=sharing) | <b>HackerRank</b><br />
+[SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br />
+[Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b><br />
+[Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) | <b>EC-Council</b><br />
+
+<h3> Career Training</h3>
+
+[Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) | <b>EC-Council</b><br />
+[SQL Injection Attacks](https://drive.google.com/file/d/1CbDCnEyVDam2YR5NWhiEwtqWKZucR_EQ/view?usp=sharing) | <b>EC-Council</b><br />
+[Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
+<br />
+<b>In Progress</b><br />
+[Practical Web Application Security and Testing](https://taggartinstitute.org/p/pwst) | <b>TCM Security Academy</b> and <b>TTi</b> - Michael Taggart <br />
+[Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) | <b>Dr. Angela Yu</b> <br />
+
+<h3>Write Ups</h3>
+
+<h4>OWASP Top 10</h4>
+
++ [A03 - Injections](https://github.com/reachchrisyoung/Write-Up-A03-Injection/tree/main?tab=readme-ov-file#readme)
+
++ Connecting to TryHackMe VPN
+
+<b>Coming soon...</b><br />
+<br />
+
+[CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
+
+-------------------------------------------
+-------------------------------------------
+
 
 <h2> 🤳 Data Analytics</h2>
 
