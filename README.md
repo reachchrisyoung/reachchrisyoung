@@ -2,7 +2,7 @@
 
 USMC Veteran pivoting to Web App Pentester with 2 bachelor degrees, 20 years in website SEO, & expired secret clearance.  Preparing for Network+ Exam & developing Python skills with Dr. Angela Yu’s 100 Days of Code. <br />
 
-<b>PORTFOLIO LINKS</b> ➡ [TryHackMe](https://tryhackme.com/p/reachchrisyoung) - Top 13% | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) <br />
+<b>PORTFOLIO LINKS</b> ➡ [TryHackMe](https://tryhackme.com/p/reachchrisyoung) - Top 9% | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) <br />
 <b>PORTFOLIO LINKS</b> ➡ [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges) <br />
 
 <h2>Summary of Contents</h2>
