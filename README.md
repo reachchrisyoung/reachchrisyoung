@@ -361,12 +361,15 @@ NIST SP 800-53B - [Control Baselines for Information Systems and Organizations I
 
 <h3> 🏅 Accomplishments </h3>
 
-+ Co-Founder, <b>GRC Study Hall</b> (ICW Gerald Auger, Ph.D - Simply Cyber) <br />
++ Co-Founded <b>GRC Study Hall</b> (ICW Gerald Auger, Ph.D - Simply Cyber) <br />
   Weekly mastermind with industry professionals & students over:
   + NIST Cybersecurity Framework
   + Risk Management (RMF)
   + Center for Internet Security (CIS) Top 18
   + ...and more.
+
+ + Co-Founded <b>Public Speaking Masters-SC</b> (Sponsored by <b>Gerald Auger, Ph.D - Simply Cyber</b>) <br />
+  Monthly event for members of the cybersecurity community -- professionals and students alike -- to practice & receive feedback on their public speaking skills, and/or practice for an upcoming conference talk.  Opportunities are available for members and guests to attend / listen and learn, volunteer for event operations and provide feedback to those speaking, and even register in advance to be either a (i.) short or long speaking engagement, or (ii.) an impromptu speech of an extemporaneous nature (minimal preparatory time).
 
 <h3> GRC Project Examples </h3>
 
