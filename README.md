@@ -8,7 +8,6 @@ USMC Veteran moving to Cyber Threat Intelligence; expired clearance, 1 combat to
 <h3> Education </h3>
 
 (Expected: 2027) MS Cybersecurity, <b>Southern New Hampshire University</b><br />
-<br />
 
 2013 BA General Studies, <b>Southern New Hampshire University</b>
 + Business Administration Concentration
