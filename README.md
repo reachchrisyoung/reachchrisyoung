@@ -87,13 +87,13 @@ Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 
 - <b>Likelihood of Affirmative Defense Claim</b> | <i>Breaches in Local Business</b>: CIS Top 18 v. Ohio 2018 Safe Harbor Law 
 
-<h4> Recorded Future | Threat Intelligence Handbook  </h4>
+<h4> Readings </h4>
 
-- Cyber Kill Chain, Diamond Model & MITRE ATT&CK Framework.
+- Recorded Future | Threat Intelligence Handbook: Cyber Kill Chain, Diamond Model & MITRE ATT&CK Framework
 
 <h4>CTI Report Auditing</h4>
 
-- Crafted [pamphlet](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md#cti-report-documentation) to audit Cyber Threat Intelligence Reports (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE). 
+- Crafted [pamphlet](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md#cti-report-documentation) to audit Cyber Threat Intelligence Reports (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
 
 <h4>CTI Report Outline</h4>
 
