@@ -7,7 +7,7 @@ USMC Veteran moving to Cyber Threat Intelligence; expired clearance, 1 combat to
 
 <h2>Summary of Contents</h2>
 
-WELCOME!  <b>PLEASE CLICK ON A LINK TO VIEW YOUR DESIRED TABLE OF CONTENTS SECTION...</b>
+WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 🔗 [Cyber Threat Intelligence](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti-)<br />
 💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)<br />
