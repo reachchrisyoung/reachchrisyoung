@@ -35,7 +35,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects-) | 🏅 [Accomplishments](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects--1) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-projects-) | 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
 -------------------------------------------
