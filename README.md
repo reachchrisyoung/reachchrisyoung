@@ -26,7 +26,7 @@ USMC Veteran moving to Cyber Threat Intelligence; expired clearance, 1 combat to
   + [CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-)
 
   + Supplemental Work
-     + [Philosophy Writings](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#philosophy-writings)
+     + [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings)
      + [Academic Research Experience](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-academic-research-experience-prior-to-cti)
 
 <h3> 💻 Pentesting</h3>
