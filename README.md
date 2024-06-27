@@ -93,7 +93,7 @@ Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 
 <h4>CTI Report Auditing</h4>
 
-- Crafted [pamphlet](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md#cti-report-documentation) to audit Cyber Threat Intelligence Reports (following CISA's [Introduction to Cyber Intel](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE). 
+- Crafted [pamphlet](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md#cti-report-documentation) to audit Cyber Threat Intelligence Reports (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE). 
 
 <h4>CTI Report Outline</h4>
 
