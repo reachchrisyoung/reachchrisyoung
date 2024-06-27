@@ -5,6 +5,22 @@ USMC Veteran moving to Cyber Threat Intelligence; expired clearance, 1 combat to
 <b>PORTFOLIO LINKS</b> ➡ [TryHackMe](https://tryhackme.com/p/reachchrisyoung) - Top 8% | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) <br />
 <b>PORTFOLIO LINKS</b> ➡ [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
+<h3> Education </h3>
+
+(Expected: 2027) MS Cybersecurity, <b>Southern New Hampshire University</b>
+2013 BA General Studies, <b>Southern New Hampshire University</b>
++ Business Administration Concentration
++ Philosophy Minor
++ Coursework: Ethics, Business Law, Historical Research, Communication, and Anthropology
++ Research: History & Philosophy - Ethics, Religion, and Environmental
+2017 BA Communication Studies, <b>Wayne State University</b> <br />
++ 2 Critical Thinking classes, Russian Culture, Research Methods, Regional Geography, Public Affairs, C++, & Statistics
++ 3 Graduate Credits in <b>Records & Information Management</b>
++ Research: Computer-mediated communication, Guest Researcher (Team S. Tong, Ph.D, 2017) in Online Dating, Leadership Communication & Groups/Teams, Interpersonal Communication - Stress & Coping, & Communication Ethics
+2018 AA & 2013 AGS, <b>Macomb Community College</b>
++ Coursework: HTML/PHP - Creating Web Pages for Business, Biology, and Ethics
++ Research: Ethnographic & Health/Healthcare/Medical
+
 <h2>Summary of Contents</h2>
 
 WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
