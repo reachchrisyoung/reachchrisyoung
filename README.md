@@ -62,38 +62,57 @@ Hands-on Labs in: <br />
 Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.<br />
 <br />
 [Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br />
-Investigating exposure to common vulnerabilities that can lead to cybersecurity compromise relative to NIST CSF. Continuous threat exposure management encompassing attack surface, vulnerabilities, validation, and prioritization.  Maturing the organization’s cybersecurity posture through the lens of professionals in GRC, SOC, CEH & CISO/Board.<br />
+Common vulnerabilities leading to compromise relative to NIST CSF.  Threat exposure management encompassing attack surface, vulnerabilities, validation & prioritization.  Maturing posture in the lens of GRC, SOC, CEH & the CISO/Board.<br />
 <br />
 [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE) | <b>CISA</b><br />
 <br />
 [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) | <b>IBM</b><br />
  <br />
 [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
-<br />
+Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (TinyEye, Google Image Search).<br />
 <b>In Progress</b> <br />
 Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 
-<h2> CTI Project Examples </h2>
+<h2> CTI Projects & Labs </h2>
 
-<h3>OSINT</h3>
+<h3> Report Samples </h3>
 
-- [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b> <br />
-<br />
+<h4> Small Business Reports </h4>
 
-<h3>CTI Report Outline</h3>
+<h5>In Production</h5>
+
+- <b>Likelihood of Affirmative Defense Claim</b> | <i>Breaches in Local Business</b>: CIS Top 18 v. Ohio 2018 Safe Harbor Law 
+
+<h4> Recorded Future | Threat Intelligence Handbook  </h4>
+
+- Cyber Kill Chain, Diamond Model & MITRE ATT&CK Framework.
+
+<h4>CTI Report Auditing</h4>
+
+- Crafted [pamphlet](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md#cti-report-documentation) to audit Cyber Threat Intelligence Reports (following CISA's [Introduction to Cyber Intel](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE). 
+
+<h4>CTI Report Outline</h4>
 
 - [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline)
 
-<h3> Drafting Templates </h3>
+<h4> Drafting Templates </h4>
 
 - [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
 - [CTI Short Template](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
 
-<h3> CTI Co-A.I. Reporting </h3>
+<h4> CTI Co-A.I. Reporting </h4>
 
 - [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
 
 + Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
+
+<h4>OSINT</h4>
+
+- [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b> <br />
+<br />
+
+
+
 
 <h2>Philosophy Writings</h2>
 
@@ -266,17 +285,16 @@ Linux command line, Active Directory, network threat hunting, and vulnerability 
 <br />
 <br />
 <b>Active Countermeasures</b> | [Cyber Threat Hunting](https://drive.google.com/file/d/1tdJfoPy03LDZBB-aLe7BcqSy4upsyDhd/view?usp=sharing) <b><i>- Chris Brenton </b></i> <br />
-Proper process for threat hunting a network with a mix of desktops, servers, network gear, and IoT devices.  Identify compromised system being manipulated via command & control channels.  Identifying the full scope of a compromise.
-Identify malicious activity by analyzing protocol behavior characteristics. Proper handoff for incident response.
+Proper process for threat hunting a network with a mix of desktops, servers, network gear, and IoT devices.  Identify compromised system being manipulated via command & control channels.  Identifying the full scope of a compromise.  Identify malicious activity by analyzing protocol behavior characteristics.  Proper handoff for incident response.
 <br />
 <br />
 <b>Simply Cyber</b> | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing)<b><i>- Gerald Auger, Ph.D</b></i><br />
 Hands-on Labs provided insight beyond hacking, discovering what organizations utilize to limit core technology access.<br />
 + Cybersecurity Risk
-  + Semi-quantitative risk analysis using NIST SP 800-30 methodology to identify system weaknesses.
+  + Semi-quantitative risk analysis using [NIST SP 800-30 methodology](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to identify system weaknesses.
   + Executed threat modeling exercise to determine higher likelihood threats informing risk modeling.
 + Compliance/Audit
-  + Prepared, executed, and reported on audit of subset of NIST SP 800-53 controls and NIST CSF.
+  + Prepared, executed, and reported on audit of subset of [NIST SP 800-53 controls](https://github.com/reachchrisyoung/GRC-Compliance-Audit?tab=readme-ov-file#readme) and NIST CSF.
 
 [Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br />
 Common vulnerabilities leading to compromise relative to NIST CSF.  Threat exposure management encompassing attack surface, vulnerabilities, validation & prioritization.  Maturing posture in the lens of GRC, SOC, CEH & the CISO/Board.
