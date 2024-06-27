@@ -90,30 +90,30 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 - <b>Likelihood of Affirmative Defense Claim</b> | <i>Breaches in Local Business</b>: CIS Top 18 v. Ohio 2018 Safe Harbor Law 
 
-<h4> Readings </h4>
+<h3> Readings </h3>
 
 - Recorded Future | Threat Intelligence Handbook: Cyber Kill Chain, Diamond Model & MITRE ATT&CK Framework
 
-<h4>CTI Report Auditing</h4>
+<h3>CTI Report Auditing</h3>
 
 - Crafted [pamphlet](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md#cti-report-documentation) to audit Cyber Threat Intelligence Reports (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
 
-<h4>CTI Report Outline</h4>
+<h3>CTI Report Outline</h3>
 
 - [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline)
 
-<h4> Drafting Templates </h4>
+<h3> Drafting Templates </h3>
 
 - [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
 - [CTI Short Template](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
 
-<h4> CTI Co-A.I. Reporting </h4>
+<h3> CTI Co-A.I. Reporting </h3>
 
 - [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
 
 + Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
-<h4>OSINT</h4>
+<h3>OSINT</h3>
 
 - [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b> <br />
 <br />
