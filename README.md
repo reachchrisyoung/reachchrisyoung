@@ -13,7 +13,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)<br />
 🤳 [Data Analytics](https://github.com/reachchrisyoung#--data-analytics-)<br />
 🔐 [Cybersecurity & Infosec](https://github.com/reachchrisyoung#--cybersecurity--infosec-)<br />
-✅ [Governance, Risk, and Compliance (GRC) Projects](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-) <br />
+✅ [Governance, Risk, and Compliance (GRC)](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-) <br />
 
 <h3>Table of Contents:</h3>
 
@@ -330,7 +330,7 @@ Hands-on labs introducing red and blue team topics, including:
 -------------------------------------------
 -------------------------------------------
 
-<h2> ✅ Governance, Risk, and Compliance (GRC) Projects: </h2>
+<h2> ✅ Governance, Risk, and Compliance (GRC): </h2>
 
 <h3> 📜 Credentials</h3>
 
