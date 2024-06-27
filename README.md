@@ -21,9 +21,13 @@ USMC Veteran moving to Cyber Threat Intelligence; expired clearance, 1 combat to
 
 <h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-)
-     + [OSINT](https://github.com/reachchrisyoung#osint) | [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) | [CTI Co-A.I. Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-)
-     + [Philosophy Writings](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-academic-research-experience-prior-to-cti)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1)
+
+  + [CTI Project Examples](https://github.com/reachchrisyoung#-cti-project-examples-)
+
+  + Supplemental Work
+     + [Philosophy Writings](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#philosophy-writings)
+     + [Academic Research Experience](https://github.com/reachchrisyoung/reachchrisyoung/blob/main/README.md#-academic-research-experience-prior-to-cti)
 
 <h3> 💻 Pentesting</h3>
 
