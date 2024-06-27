@@ -77,7 +77,7 @@ Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 <br />
 [Simply Cyber Con](https://drive.google.com/file/d/1mOJefme3VppPqW5tv-dcuUD99ffNQErC/view?usp=sharing) 2023 | <b>Simply Cyber</b><br />
 <br />
-VetSec Con 2023 | <b>VetSec</b> [VetSec.org](https://vetsec.org/) <br />
+VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 <br />
 
 <h2> CTI Projects & Labs </h2>
