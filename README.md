@@ -17,7 +17,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 <h3>Table of Contents:</h3>
 
-<h3> 🔗 Cyber Threat Intelligence (CTI) </h3>
+<h3> 🔗 Cyber Threat Intelligence (CTI)</h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | [CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-) & Supplemental Work: [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
 
