@@ -55,8 +55,6 @@ Hands-on Labs in: <br />
 + Scoring & charting priority intelligence requirements.
 + Biases in cyber threat intelligence.
 
-[Cyber Threat Intelligence Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) | <b>SANS Institute</b><br />
-<br />
 [Foundation Level Threat Intelligence Analyst Certification](https://arcx.io/courses/cyber-threat-intelligence-101) | <b>ArcX</b><br />
 Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.<br />
 <br />
@@ -71,6 +69,17 @@ Common vulnerabilities leading to compromise relative to NIST CSF.  Threat expos
 Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (TinyEye, Google Image Search).<br />
 <b>In Progress</b> <br />
 Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
+
+<h3>Conferences</h3>
+
+[Cyber Threat Intelligence (CTI) Summit](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) 2024 | <b>SANS Institute</b><br />
+<br />
+[The Most Offensive Con that Ever Offensived: Bypass Edition](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) 2024 | <b>Antisyphon Training</b><br />
+<br />
+[Simply Cyber Con](https://drive.google.com/file/d/1mOJefme3VppPqW5tv-dcuUD99ffNQErC/view?usp=sharing) 2023 | <b>Simply Cyber</b><br />
+<br />
+VetSec Con 2023 | <b>VetSec</b> [VetSec.org](https://vetsec.org/) <br />
+<br />
 
 <h2> CTI Projects & Labs </h2>
 
