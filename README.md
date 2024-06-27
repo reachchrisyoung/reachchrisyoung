@@ -7,16 +7,20 @@ USMC Veteran moving to Cyber Threat Intelligence; expired clearance, 1 combat to
 
 <h3> Education </h3>
 
-(Expected: 2027) MS Cybersecurity, <b>Southern New Hampshire University</b>
+(Expected: 2027) MS Cybersecurity, <b>Southern New Hampshire University</b><br />
+<br />
+
 2013 BA General Studies, <b>Southern New Hampshire University</b>
 + Business Administration Concentration
 + Philosophy Minor
 + Coursework: Ethics, Business Law, Historical Research, Communication, and Anthropology
 + Research: History & Philosophy - Ethics, Religion, and Environmental
+
 2017 BA Communication Studies, <b>Wayne State University</b> <br />
 + 2 Critical Thinking classes, Russian Culture, Research Methods, Regional Geography, Public Affairs, C++, & Statistics
 + 3 Graduate Credits in <b>Records & Information Management</b>
 + Research: Computer-mediated communication, Guest Researcher (Team S. Tong, Ph.D, 2017) in Online Dating, Leadership Communication & Groups/Teams, Interpersonal Communication - Stress & Coping, & Communication Ethics
+
 2018 AA & 2013 AGS, <b>Macomb Community College</b>
 + Coursework: HTML/PHP - Creating Web Pages for Business, Biology, and Ethics
 + Research: Ethnographic & Health/Healthcare/Medical
