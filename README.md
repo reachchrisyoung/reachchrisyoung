@@ -120,7 +120,7 @@ Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 
 <h2>Philosophy Writings</h2>
 
-+ C. Young (2023) Philosophy Ethics - [Good, Evil, and Agency](https://drive.google.com/file/d/1RODOuyMBVnLyOIxnTVtc1_XI9gJD3MPg/view?usp=sharing)
++ C. Young (2023) Philosophy - Ethics - [Good, Evil, and Agency](https://drive.google.com/file/d/1RODOuyMBVnLyOIxnTVtc1_XI9gJD3MPg/view?usp=sharing)
 
 + C. Young (2022) Philosophy - Religions - [Religion -- of Sorts: Sikhism Vice Christianity](https://drive.google.com/file/d/1lqTG3-ScCkCe_MaE49KWbpXJ0qjhnA-Y/view?usp=sharing)
 
