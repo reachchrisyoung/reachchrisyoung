@@ -175,15 +175,14 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h3> 📜 Credentials</h3>
 
-[Python (Basic) Certificate](https://drive.google.com/file/d/1dPNBanbf5HWSu_nZ11aR0e7LVEVxrcH5/view?usp=sharing) | <b>HackerRank</b><br />
 [SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br />
+[Python (Basic) Certificate](https://drive.google.com/file/d/1dPNBanbf5HWSu_nZ11aR0e7LVEVxrcH5/view?usp=sharing) | <b>HackerRank</b><br />
 [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b><br />
-[Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) | <b>EC-Council</b><br />
 
 <h3> 💲 Career Training</h3>
 
-[Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) | <b>EC-Council</b><br />
 [SQL Injection Attacks](https://drive.google.com/file/d/1CbDCnEyVDam2YR5NWhiEwtqWKZucR_EQ/view?usp=sharing) | <b>EC-Council</b><br />
+[Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) | <b>EC-Council</b><br />
 [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
 <br />
 <b>In Progress</b><br />
@@ -329,7 +328,8 @@ Hands-on labs introducing red and blue team topics, including:
 + System Auditing with Lynis
 + Configuring a Firewall
 
-<b>EC-Council</b> 
+<b>EC-Council</b> <br />
++ [SQL Injection Attacks](https://drive.google.com/file/d/1CbDCnEyVDam2YR5NWhiEwtqWKZucR_EQ/view?usp=sharing) | <b>EC-Council</b><br />
 + [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) <br />
 + [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
 + [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) <br />
