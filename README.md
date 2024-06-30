@@ -17,9 +17,6 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1)
   + 🎤 [Conferences Attended](https://github.com/reachchrisyoung#--conferences-attended)
-
-[CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-)
-
   + 📝 [Tradecraft Notes](https://github.com/reachchrisyoung#-tradecraft-notes-) <br />
   + 📜 [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) <br />
   + 📃 [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) <br />
