@@ -82,6 +82,12 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h2> CTI Projects & Labs </h2>
 
+<h3> Tradecraft Notes </h3>
+
+<h4> Reporting Notes </h4>
+
++ Note 1: [Make sure the problem/question is understood](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#suitability). Inspired by: Chris Cochran
+
 <h3> Report Samples </h3>
 
 <h4> Small Business Reports </h4>
