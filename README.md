@@ -20,10 +20,9 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 <h3> 🔗 Cyber Threat Intelligence (CTI)</h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | 🎤 [Conferences Attended](https://github.com/reachchrisyoung#--conferences-attended) <br />
-  + [CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-) | 📝 [Tradecraft Notes](https://github.com/reachchrisyoung#-tradecraft-notes-) <br />
-  + 📜 [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | 📃 [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) <br />
+  + [CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-) | 📝 [Tradecraft Notes](https://github.com/reachchrisyoung#-tradecraft-notes-) 📜 [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | 📃 [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) <br />
   + A.I. -- [CTI Co-AI Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-) <br />
-  + 📲 [OSINT](https://github.com/reachchrisyoung#osint) <br />
+  + [OSINT](https://github.com/reachchrisyoung#osint) 📲 <br />
   + Supplemental Work: [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
 
 <h3> 💻 Pentesting</h3>
@@ -40,9 +39,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc--1) | [NIST RMF Credentials](https://github.com/reachchrisyoung#nist-risk-management-framework-rmf-credentials)
-  + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-)
-  + ✅ [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc--1) | [NIST RMF Credentials](https://github.com/reachchrisyoung#nist-risk-management-framework-rmf-credentials) | 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | ✅ [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
 -------------------------------------------
