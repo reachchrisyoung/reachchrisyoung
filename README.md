@@ -19,7 +19,8 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 <h3> 🔗 Cyber Threat Intelligence (CTI)</h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | 🎤 [Conferences Attended](https://github.com/reachchrisyoung#--conferences-attended) <br />
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1)
+  + 🎤 [Conferences Attended](https://github.com/reachchrisyoung#--conferences-attended)
 
 [CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-)
 
