@@ -19,7 +19,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 <h3> 🔗 Cyber Threat Intelligence (CTI)</h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) <br />
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | 🎤 Conferences Attended <br />
   + [CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-) | [Tradecraft Notes](https://github.com/reachchrisyoung#-tradecraft-notes-) <br />
   + Supplemental Work: [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
 
@@ -69,7 +69,7 @@ Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (Ti
 <b>In Progress</b> <br />
 Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 
-<h3>Conferences</h3>
+<h3> 🎤 Conferences Attended</h3>
 
 [Cyber Threat Intelligence (CTI) Summit](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) 2024 | <b>SANS Institute</b><br />
 <br />
