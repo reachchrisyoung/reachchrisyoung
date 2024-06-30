@@ -48,7 +48,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 <h3> ✅ Governance, Risk, and Compliance (GRC) </h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc--1) | [NIST RMF Credentials](https://github.com/reachchrisyoung#nist-risk-management-framework-rmf-credentials)
-  + 🎤 [Conferences Attended]https://github.com/reachchrisyoung#--conferences-attended--1) | 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | ✅ [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
+  + 🎤 [Conferences Attended](https://github.com/reachchrisyoung#--conferences-attended--1) | 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | ✅ [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
 -------------------------------------------
