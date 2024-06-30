@@ -5,7 +5,7 @@ Preparing for Network+ Exam & developing Python skills with Dr. Angela Yu’s 10
 <br />
 <b>PORTFOLIO LINKS</b> ➡ [TryHackMe](https://tryhackme.com/p/reachchrisyoung) - Top 8% | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) | [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
-<h2>Summary of Contents</h2>
+<h3>Summary of Contents</h3>
 
 WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
