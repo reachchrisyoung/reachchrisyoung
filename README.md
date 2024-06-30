@@ -25,9 +25,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
   + 📃 [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) <br />
   + 🤖 A.I. -- [CTI Co-AI Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-) <br />
   + 📲 [OSINT](https://github.com/reachchrisyoung#osint)  <br />
-  + Supplemental Work:
-    + [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings)
-    + [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
+  + Supplemental Work: [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
 
 <h3> 💻 Pentesting</h3>
 
