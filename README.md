@@ -124,8 +124,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h3> 📲 OSINT</h3>
 
-- [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b> <br />
-<br />
+- [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b>
 
 <h2>Philosophy Writings</h2>
 
