@@ -284,8 +284,9 @@ Leveraged global database to trend sales, sales reps corresponding to customer g
 In-Progress - <b> - CompTIA </b> | Network+ <br />
 <b>ISC2</b> | [CC - Certified in Cybersecurity](https://drive.google.com/file/d/1BcK6t_aP-mQNcjPEyU9q9bcXCIAENSsP/view?usp=sharing) <br />
 <b>XM Cyber</b> | [Exposure Management Certification](https://drive.google.com/file/d/17MqiYrJKb6sdjDjzKS2JphugWPBbcxEf/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
+<b>ArcX</b> | [Foundation Level Threat Intelligence Analyst Certification](https://drive.google.com/file/d/1r3Qfu_bypcJez3FGHf49odB2JsT4XIgt/view?usp=sharing) <br />
 <b>Fortinet</b> | [NSE 3 Network Security Associate](https://drive.google.com/file/d/1iRr0pz78Doz_eh0eM-Mz0oZRUqSpCHok/view?usp=sharing) <br />
-<b>Qualys</b> | [Vulnerability Management, Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
+<b>Qualys</b> | [Vulnerability Management Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
 
 <h3> 🎤 Conferences Attended </h3>
 
@@ -374,8 +375,13 @@ NIST SP 800-53A - [Assessing Security and Privacy Controls in Information System
 NIST SP 800-53B - [Control Baselines for Information Systems and Organizations Introductory Course](https://drive.google.com/file/d/1r2I56MqfApQhOTtRkTce__6f1q0IvXsr/view?usp=sharing)<br />
 + An [overview](https://csrc.nist.gov/csrc/media/Projects/risk-management/images-media/rmf-training/53B-intro-course-v1/index.html) of security and privacy control baselines for organizational risk management developed by the National Institute of Standards and Technology (NIST).  NOTE: NIST SP 800-53B establishes security and privacy control baselines for systems and organizations, and it provides tailoring guidance for those baselines. The security and privacy control baselines were developed specifically for federal systems but can serve as a starting point for any organization. Control baselines are collection of controls from SP 800-53 assembled to address specific protection needs for the low-impact, moderate-impact, high-impact systems, and meet privacy program requirements under Office of Management and Budget (OMB) Circular A-130. This course introduces the structure and organization of the SP 800-53B security and privacy control baselines, and guidance on tailoring and development of control overlays to facilitate control baseline customization for specific communities of interest, technologies, and environments of operation. Also Note: The NIST SP 800-53B is a companion document to NIST SP 800-53 Revision 5.
 
+<h3> 🎤 Conferences Attended </h3>
 
-
+<b>Antisyphon Training (BHIS)</b> | [Incident Response (IR) Summit 2024](https://drive.google.com/file/d/1IL7SA73U0BCv5bLPmtixdI64qZCxQh5g/view?usp=sharing) <b><i>- Eric Taylor</b></i> <br />
+<b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
+<b>Antisyphon Training (BHIS)</b> | [The Most Offensive Con That Ever Offensived: ByPass Edition 2024](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) <b><i>- John Strand</b></i> <br />
+<b>Simply Cyber</b> | [Simply Cyber Con 2023](https://drive.google.com/file/d/1qqKSAuyZF5Yhhq97_RsGSrkGiXDK5BVJ/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
+<b>VetSec</b> | VetSec Con 2023 <b><i>- Tom Marsland</b></i> <br /> 
 
 <h3> 🏅 Accomplishments </h3>
 
