@@ -127,9 +127,6 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 - [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b> <br />
 <br />
 
-
-
-
 <h2>Philosophy Writings</h2>
 
 + C. Young (2023) Philosophy - Ethics - [Good, Evil, and Agency](https://drive.google.com/file/d/1RODOuyMBVnLyOIxnTVtc1_XI9gJD3MPg/view?usp=sharing)
@@ -205,7 +202,6 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 -------------------------------------------
 -------------------------------------------
 
-
 <h2> 🤳 Data Analytics</h2>
 
 <h3> 📜 Data Analytics Credentials</h3>
@@ -263,8 +259,7 @@ eCommerce store database design in SQL; analyzed product stats. <br />
 <h4> Chinook Business Intelligence. </h4>
 
 Leveraged global database to trend sales, sales reps corresponding to customer groupings, invoice volume, and join tables to illustrate total sales and top-performing agents. <br />
-
-
+<br />
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
@@ -320,8 +315,8 @@ Common vulnerabilities leading to compromise relative to NIST CSF.  Threat expos
 Hands-on labs introducing red and blue team topics, including:
 
 + Hiding Data in Pictures with Steganography
-+ Establish Brute Forcing Access with Hydra
-+ Launch a Denial of Service Attack
++ Brute Forcing Access with Hydra
++ Vulnerability Scanning a System [Lab Resource: Tenable Nessus]
 + Phishing Toolkit to Harvest Credentials
 + Deploying and Detecting Rootkit Malware
 + Nmap for Network and System Reconnaissance
@@ -334,7 +329,6 @@ Hands-on labs introducing red and blue team topics, including:
 + [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) <br />
 + [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) <br />
 <br />
-
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
 -------------------------------------------
@@ -404,7 +398,6 @@ NIST SP 800-53B - [Control Baselines for Information Systems and Organizations I
 
 + [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
   + Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
-
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
