@@ -29,7 +29,9 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
   + 📃 [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) <br />
   + 🤖 A.I. -- [CTI Co-AI Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-) <br />
   + 📲 [OSINT](https://github.com/reachchrisyoung#osint)  <br />
-  + Supplemental Work: [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
+  + Supplemental Work:
+    + [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings)
+    + [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
 
 <h3> 💻 Pentesting</h3>
 
@@ -37,7 +39,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 <h3> 🤳 Data Analytics </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) 🏋 [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-) | 📊 [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) | 🏋 [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-) | 📊 [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
 
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
@@ -45,7 +47,8 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc--1) | [NIST RMF Credentials](https://github.com/reachchrisyoung#nist-risk-management-framework-rmf-credentials) | 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | ✅ [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc--1) | [NIST RMF Credentials](https://github.com/reachchrisyoung#nist-risk-management-framework-rmf-credentials)
+  + 🎤 [Conferences Attended]https://github.com/reachchrisyoung#--conferences-attended--1) | 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | ✅ [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
 -------------------------------------------
