@@ -9,10 +9,10 @@ USMC Veteran moving to Cyber Threat Intelligence; expired clearance, 1 combat to
 
 WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
-🔗 [Cyber Threat Intelligence](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti-)<br />
-💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting)<br />
-🤳 [Data Analytics](https://github.com/reachchrisyoung#--data-analytics-)<br />
-🔐 [Cybersecurity & Infosec](https://github.com/reachchrisyoung#--cybersecurity--infosec-)<br />
+🔗 [Cyber Threat Intelligence](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti) <br />
+💻 [Pentesting](https://github.com/reachchrisyoung#--pentesting) <br />
+🤳 [Data Analytics](https://github.com/reachchrisyoung#--data-analytics-) <br />
+🔐 [Cybersecurity & Infosec](https://github.com/reachchrisyoung#--cybersecurity--infosec-) <br />
 ✅ [Governance, Risk, and Compliance (GRC)](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc-) <br />
 
 <h3>Table of Contents:</h3>
