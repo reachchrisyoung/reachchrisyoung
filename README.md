@@ -1,7 +1,6 @@
 <h1>Hi, I'm Chris! </h1>
 
 USMC Veteran moving to Cyber Threat Intelligence; expired clearance, 1 combat tour, 2 bachelor degrees & 20 years in SEO. <br />
-Preparing for Network+ Exam & developing Python skills with Dr. Angela Yu’s 100 Days of Code. <br />
 <br />
 <b>PORTFOLIO LINKS</b> ➡ [TryHackMe](https://tryhackme.com/p/reachchrisyoung) - Top 8% | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) | [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
