@@ -79,15 +79,10 @@ Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 <h3> 🎤 Conferences Attended</h3>
 
 [Cyber Threat Intelligence (CTI) Summit](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) 2024 | <b>SANS Institute</b><br />
-<br />
 [The Most Offensive Con that Ever Offensived: Bypass Edition](https://drive.google.com/file/d/1zK-i6DXycmbJjW1cYFmZ882Z5Ow3YenN/view?usp=sharing) 2024 | <b>Antisyphon Training</b><br />
-<br />
 [Incident Response (IR) Summit](https://drive.google.com/file/d/1IL7SA73U0BCv5bLPmtixdI64qZCxQh5g/view?usp=sharing) 2024 | <b>Antisyphon Training</b><br />
-<br />
 [Simply Cyber Con](https://drive.google.com/file/d/1mOJefme3VppPqW5tv-dcuUD99ffNQErC/view?usp=sharing) 2023 | <b>Simply Cyber</b><br />
-<br />
 VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
-<br />
 
 <h2> CTI Projects & Labs </h2>
 
