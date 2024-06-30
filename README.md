@@ -20,27 +20,29 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 <h3> 🔗 Cyber Threat Intelligence (CTI)</h3>
 
   + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | 🎤 [Conferences Attended](https://github.com/reachchrisyoung#--conferences-attended) <br />
-  + [CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-) | [Tradecraft Notes](https://github.com/reachchrisyoung#-tradecraft-notes-) <br />
-  + [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) <br />
+  + [CTI Projects & Labs](https://github.com/reachchrisyoung#-cti-projects--labs-) | 📝 [Tradecraft Notes](https://github.com/reachchrisyoung#-tradecraft-notes-) <br />
+  + 📜 [CTI Report Outline](https://github.com/reachchrisyoung#cti-report-outline) | 📃 [Drafting Templates](https://github.com/reachchrisyoung#-drafting-templates-) <br />
   + A.I. -- [CTI Co-AI Reporting](https://github.com/reachchrisyoung#-cti-co-ai-reporting-) <br />
-  + [OSINT](https://github.com/reachchrisyoung#osint) <br />
+  + 📲 [OSINT](https://github.com/reachchrisyoung#osint) <br />
   + Supplemental Work: [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
 
 <h3> 💻 Pentesting</h3>
 
-  +  📜  [Credentials](https://github.com/reachchrisyoung#--pentesting-1) | [Career Training](https://github.com/reachchrisyoung#--pentesting-1) | [Write-Ups](https://github.com/reachchrisyoung#write-ups)
+  +  📜 [Credentials](https://github.com/reachchrisyoung#--pentesting-1) | 💲 [Career Training](https://github.com/reachchrisyoung#--pentesting-1) | 📝 [Write-Ups](https://github.com/reachchrisyoung#write-ups)
 
 <h3> 🤳 Data Analytics </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) | [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-) | [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--data-analytics) 🏋 [Data Analytics Training](https://github.com/reachchrisyoung#-data-analytics-training-) | 📊 [Data Analytics & Visualization Project Examples](https://github.com/reachchrisyoung#-data-analytics--visualization-project-examples-)
 
 <h3> 🔐 Cybersecurity & Infosec </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--cybersecurity--infosec--1) | [Conferences](https://github.com/reachchrisyoung#-conferences-) | [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cybersecurity--infosec--1) | 🎫 [Conferences Attended](https://github.com/reachchrisyoung#-conferences-) | 🖥 [Infosec Training](https://github.com/reachchrisyoung#-infosec-training-)
 
 <h3> ✅ Governance, Risk, and Compliance (GRC) </h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc--1) | [NIST RMF Creds](https://github.com/reachchrisyoung#nist-risk-management-framework-rmf-credentials) | 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-) | [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--governance-risk-and-compliance-grc--1) | [NIST RMF Credentials](https://github.com/reachchrisyoung#nist-risk-management-framework-rmf-credentials)
+  + 🏅 [Accomplishments](https://github.com/reachchrisyoung#--accomplishments-)
+  + ✅ [GRC Project Examples](https://github.com/reachchrisyoung#-grc-project-examples-)
 
 -------------------------------------------
 -------------------------------------------
@@ -87,7 +89,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h2> CTI Projects & Labs </h2>
 
-<h3> Tradecraft Notes </h3>
+<h3> 📝 Tradecraft Notes </h3>
 
 <h4> Reporting Notes </h4>
 
@@ -105,7 +107,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 - <b>Likelihood of Affirmative Defense Claim</b> | <i>Breaches in Local Business</b>: CIS Top 18 v. Ohio 2018 Safe Harbor Law 
 
-<h3> Readings </h3>
+<h3> 📚 Readings </h3>
 
 - Recorded Future | Threat Intelligence Handbook: Cyber Kill Chain, Diamond Model & MITRE ATT&CK Framework
 
@@ -113,11 +115,11 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 - Crafted [pamphlet](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md#cti-report-documentation) to audit Cyber Threat Intelligence Reports (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
 
-<h3>CTI Report Outline</h3>
+<h3> 📜 CTI Report Outline</h3>
 
 - [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline)
 
-<h3> Drafting Templates </h3>
+<h3> 📃 Drafting Templates </h3>
 
 - [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
 - [CTI Short Template](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
@@ -128,7 +130,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 + Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
-<h3>OSINT</h3>
+<h3> 📲 OSINT</h3>
 
 - [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b> <br />
 <br />
@@ -186,7 +188,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b><br />
 [Digital Forensics Essentials (DFE)](https://drive.google.com/file/d/1Q-e49R9NE75tL7VdfWR2sbx0_T4jo-9O/view?usp=sharing) | <b>EC-Council</b><br />
 
-<h3> Career Training</h3>
+<h3> 💲 Career Training</h3>
 
 [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) | <b>EC-Council</b><br />
 [SQL Injection Attacks](https://drive.google.com/file/d/1CbDCnEyVDam2YR5NWhiEwtqWKZucR_EQ/view?usp=sharing) | <b>EC-Council</b><br />
@@ -196,7 +198,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 [Practical Web Application Security and Testing](https://taggartinstitute.org/p/pwst) | <b>TCM Security Academy</b> and <b>TTi</b> - Michael Taggart <br />
 [Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) | <b>Dr. Angela Yu</b> <br />
 
-<h3>Write Ups</h3>
+<h3> 📝 Write Ups</h3>
 
 <h4>OWASP Top 10</h4>
 
@@ -222,7 +224,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 <b>Tableau</b> | [Tableau Creator](https://www.linkedin.com/in/reachchrisyoung/details/certifications/) <br />
 <b>Google</b> | [Analytics Cert](https://drive.google.com/file/d/1fHUbCj5flN8njCvCIl9SQhh2zfu_rV31/view?usp=sharing) - [GAIQ](https://drive.google.com/file/d/1772VGdXHkgSDdzEbS0zkOIv3elS_-Ye-/view?usp=sharing) - [Ads Search Cert](https://drive.google.com/file/d/1xPg3G8RBeQQ0A50eWiRWqWAnl415oSjc/view?usp=sharing) - [Ads - Measurement Cert](https://drive.google.com/file/d/1mbM0x1m6KSPqjNeMYF4dYwfo5GnptTpj/view?usp=sharing) <br />
 
-<h3> Data Analytics Training </h3>
+<h3> 🏋 Data Analytics Training </h3>
 
 <b>In Progress</b> <br />
 Python: 100 Days of Code | Udemy - <b> Dr. Angela Yu </b>  <br />
@@ -246,7 +248,7 @@ Python: 100 Days of Code | Udemy - <b> Dr. Angela Yu </b>  <br />
 <b>McKinney & Guest Pryal</b> | Core Grammar for Lawyers <br />
 <b>FEMA</b> | IS-29 Public Information Officer - IS-794 External Affairs Liaison <br />
 
-<h3> Data Analytics & Visualization Project Examples </h3>
+<h3> 📊 Data Analytics & Visualization Project Examples </h3>
 
 [SQL Portfolio](https://github.com/reachchrisyoung/SQL)<br />
 [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)<br />
@@ -287,7 +289,7 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 <b>Fortinet</b> | [NSE 3 Network Security Associate](https://drive.google.com/file/d/1iRr0pz78Doz_eh0eM-Mz0oZRUqSpCHok/view?usp=sharing) <br />
 <b>Qualys</b> | [Vulnerability Management, Detection & Response](https://drive.google.com/file/d/1Qq8v5K6kIpWE3K1MBtJTBLue4hnrfmrA/view?usp=sharing) <br />
 
-<h3> Conferences </h3>
+<h3> 🎤 Conferences Attended </h3>
 
 <b>Antisyphon Training (BHIS)</b> | [Incident Response (IR) Summit 2024](https://drive.google.com/file/d/1IL7SA73U0BCv5bLPmtixdI64qZCxQh5g/view?usp=sharing) <b><i>- Eric Taylor</b></i> <br />
 <b>SANS Institute</b> | [Cyber Threat Intelligence (CTI) Summit 2024](https://drive.google.com/file/d/1hG1oID3I2lMdrzrsI0BU57r5hrUGs6nV/view?usp=sharing) <br />
@@ -295,7 +297,7 @@ In-Progress - <b> - CompTIA </b> | Network+ <br />
 <b>Simply Cyber</b> | [Simply Cyber Con 2023](https://drive.google.com/file/d/1qqKSAuyZF5Yhhq97_RsGSrkGiXDK5BVJ/view?usp=sharing) <b><i>- Gerald Auger, Ph.D</b></i> <br />
 <b>VetSec</b> | VetSec Con 2023 <b><i>- Tom Marsland</b></i> <br /> 
 
-<h3> Infosec Training </h3>
+<h3> 🖥 Infosec Training </h3>
 
 <b>In-Progress</b> <br />
 <b> Level Effect </b> | IT Fundamentals <br />
@@ -389,7 +391,7 @@ NIST SP 800-53B - [Control Baselines for Information Systems and Organizations I
  + Co-Founded <b>Public Speaking Masters-SC</b> (Sponsored by <b>Gerald Auger, Ph.D - Simply Cyber</b>) <br />
   Monthly event for members of the cybersecurity community -- professionals and students alike -- to practice & receive feedback on their public speaking skills, and/or practice for an upcoming conference talk.  Opportunities are available for members and guests to attend / listen and learn, volunteer for event operations and provide feedback to those speaking, and even register in advance to be either a (i.) short or long speaking engagement, or (ii.) an impromptu speech of an extemporaneous nature (minimal preparatory time).
 
-<h3> GRC Project Examples </h3>
+<h3> ✅ GRC Project Examples </h3>
 
 + [Compliance & Audit](https://github.com/reachchrisyoung/GRC-Compliance-Audit) | <b><i>Spreadsheet Workbook.</b></i>
   + Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities.
