@@ -93,12 +93,6 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 + [CTI Standard Outline](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
 + [CTI Short Outline](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
 
-<h3> 🤖 CTI A.I. Reports </h3>
-
-+ [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support?tab=readme-ov-file#readme)
-
-- Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
-
 <h3> Reporting Notes </h3>
 
 + Note 1: [Make sure the problem/question is understood](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#suitability). Inspired by: Chris Cochran
@@ -112,6 +106,12 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 - [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b>
 
 <h3> Report Samples </h3>
+
+<h3> 🤖 CTI A.I. Reports </h3>
+
++ [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support?tab=readme-ov-file#readme)
+
+- Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
 <h4> Small Business Reports </h4>
 
