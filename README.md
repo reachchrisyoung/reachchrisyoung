@@ -14,8 +14,7 @@ WELCOME! Feel free to <b>CLICK ON A LINK</b> that interests you...
 
 <h3> 🔗 Cyber Threat Intelligence (CTI)</h3>
 
-  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | 🎤 [Conferences Attended](https://github.com/reachchrisyoung#--conferences-attended) <br />
-  + 📝 [Tradecraft Notes & Outlines](https://github.com/reachchrisyoung#--tradecraft-notes-) | 🤖 A.I. -- [CTI A.I. Reports](https://github.com/reachchrisyoung#--cti-ai-reports-) <br />
+  + 📜 [Credentials](https://github.com/reachchrisyoung#--cyber-threat-intelligence-cti--1) | 🎤 [Conferences Attended](https://github.com/reachchrisyoung#--conferences-attended) | 📝 [Tradecraft Notes & Outlines](https://github.com/reachchrisyoung#--tradecraft-notes-) | 🤖 A.I. -- [CTI A.I. Reports](https://github.com/reachchrisyoung#--cti-ai-reports-)<br />
   + 📲 [OSINT](https://github.com/reachchrisyoung#--osint) & Supplemental Work in [Philosophy Writings](https://github.com/reachchrisyoung#philosophy-writings) | [Academic Research Experience](https://github.com/reachchrisyoung#-academic-research-experience-prior-to-cti)
 
 <h3> 💻 Pentesting</h3>
