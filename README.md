@@ -74,6 +74,12 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h2> 📝 Tradecraft Notes </h2>
 
+<h3> 💻 Home Lab: Threat Intelligence Feeds </h3>
+
++ [Custom Threat Intel Feed Home Lab 1](https://github.com/reachchrisyoung/Threat-Intel-Feed-Project-1?tab=readme-ov-file#readme)
+
+![threatintelfeedchart](https://github.com/reachchrisyoung/reachchrisyoung/assets/104402775/7ad3b0d9-9e67-4045-a669-48963b8f1e71)
+
 <h3>CTI Reporting Methodologies</h3>
 
 + [Threat Actor Profile Methodology](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology?tab=readme-ov-file#readme)
