@@ -76,22 +76,22 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h3>CTI Reporting Methodologies</h3>
 
-- Crafted [General CTI Reporting Methodology](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme) Documentation (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
++ Crafted [General CTI Reporting Methodology](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme) Documentation (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
 
-- [Threat Actor Profile Methodology](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology?tab=readme-ov-file#readme)
++ [Threat Actor Profile Methodology](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology?tab=readme-ov-file#readme)
 
 <h3> 📜 CTI Report Outlines</h3>
 
-General Drafting Templates
+<h4>General Drafting Outlines</h4>
 
 + [General CTI Report Outline](https://github.com/reachchrisyoung/General-CTI-Report-Outline?tab=readme-ov-file#readme)
 - [CTI Standard Outline](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
 - [CTI Short Outline](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
 
-Threat Actor Profile Outlines
+<h4>Threat Actor Profile Outlines</h4>
 
-+ [Threat Actor Profile Report Outline] - Executive Stakeholder
-+ [Threat Actor Profile Report Outline] - Operational Stakeholder
++ [Executive Stakeholder] - Threat Actor Profile Report Outline 
++ [Operational Stakeholder] - Threat Actor Profile Report Outline
 
 <h3> 🤖 CTI A.I. Reports </h3>
 
