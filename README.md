@@ -96,9 +96,11 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 - Recorded Future | Threat Intelligence Handbook: Cyber Kill Chain, Diamond Model & MITRE ATT&CK Framework
 
-<h3>CTI Report Auditing</h3>
+<h3>CTI Reporting Methodologies</h3>
 
-- Crafted [pamphlet](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md#cti-report-documentation) to audit Cyber Threat Intelligence Reports (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
+- Crafted [General CTI Reporting Methodology](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme) Documentation (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
+
+- [Threat Actor Profile Methodology]
 
 <h3> 📜 CTI Report Outline</h3>
 
