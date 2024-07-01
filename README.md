@@ -99,11 +99,11 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 - Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
-<h4> Reporting Notes </h4>
+<h3> Reporting Notes </h3>
 
 + Note 1: [Make sure the problem/question is understood](https://github.com/reachchrisyoung/CTI-Reporting-Notes-1?tab=readme-ov-file#suitability). Inspired by: Chris Cochran
 
-<h4> Lifecycle Notes </h4>
+<h3> Lifecycle Notes </h3>
 
 + Note 1: [Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle](https://github.com/reachchrisyoung/CTI-Lifecycle-Notes-1/tree/main?tab=readme-ov-file#readme) - Chris Cochran, Gary Ruddell & Recorded Future
 
