@@ -82,16 +82,16 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h3> 📜 CTI Report Outlines</h3>
 
-<h4>General Drafting Outlines</h4>
-
-+ [General CTI Report Outline](https://github.com/reachchrisyoung/General-CTI-Report-Outline?tab=readme-ov-file#readme)
-- [CTI Standard Outline](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
-- [CTI Short Outline](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
-
 <h4>Threat Actor Profile Outlines</h4>
 
 + [Executive Stakeholder](https://github.com/reachchrisyoung/Threat-Actor-Profile-Outlines-1?tab=readme-ov-file#readme) - Threat Actor Profile Report Outline 
 + [Operational Stakeholder] - Threat Actor Profile Report Outline
+
+<h4>General Drafting Outlines</h4>
+
++ [General CTI Report Outline](https://github.com/reachchrisyoung/General-CTI-Report-Outline?tab=readme-ov-file#readme)
++ [CTI Standard Outline](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
++ [CTI Short Outline](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
 
 <h3> 🤖 CTI A.I. Reports </h3>
 
