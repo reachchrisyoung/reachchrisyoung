@@ -90,7 +90,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h4>Threat Actor Profile Outlines</h4>
 
-+ [Executive Stakeholder] - Threat Actor Profile Report Outline 
++ [Executive Stakeholder](https://github.com/reachchrisyoung/Threat-Actor-Profile-Outlines-1?tab=readme-ov-file#readme) - Threat Actor Profile Report Outline 
 + [Operational Stakeholder] - Threat Actor Profile Report Outline
 
 <h3> 🤖 CTI A.I. Reports </h3>
