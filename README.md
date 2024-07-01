@@ -95,7 +95,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h3> 🤖 CTI A.I. Reports </h3>
 
-+ [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
++ [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support?tab=readme-ov-file#readme)
 
 - Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
