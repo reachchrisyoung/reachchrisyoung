@@ -76,9 +76,9 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h3>CTI Reporting Methodologies</h3>
 
-+ Crafted [General CTI Reporting Methodology](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme) Documentation (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
-
 + [Threat Actor Profile Methodology](https://github.com/reachchrisyoung/Threat-Actor-Profile-Methodology?tab=readme-ov-file#readme)
+
++ Crafted [General CTI Reporting Methodology](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme) Documentation (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
 
 <h3> 📜 CTI Report Outlines</h3>
 
