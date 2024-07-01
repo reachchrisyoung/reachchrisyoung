@@ -72,9 +72,32 @@ Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 [Simply Cyber Con](https://drive.google.com/file/d/1mOJefme3VppPqW5tv-dcuUD99ffNQErC/view?usp=sharing) 2023 | <b>Simply Cyber</b><br />
 VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
-<h2> CTI Projects & Labs </h2>
+<h2> 📝 Tradecraft Notes </h2>
 
-<h3> 📝 Tradecraft Notes </h3>
+<h3>CTI Reporting Methodologies</h3>
+
+- Crafted [General CTI Reporting Methodology](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme) Documentation (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
+
+- [Threat Actor Profile Methodology]
+
+<h3> 📜 CTI Report Outlines</h3>
+
+General Drafting Templates
+
++ [General CTI Report Outline](https://github.com/reachchrisyoung/General-CTI-Report-Outline?tab=readme-ov-file#readme)
+- [CTI Standard Outline](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
+- [CTI Short Outline](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
+
+Threat Actor Profile Outlines
+
++ [Threat Actor Profile Report Outline] - Executive Stakeholder
++ [Threat Actor Profile Report Outline] - Operational Stakeholder
+
+<h3> 🤖 CTI A.I. Reports </h3>
+
++ [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
+
+- Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
 
 <h4> Reporting Notes </h4>
 
@@ -83,6 +106,10 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 <h4> Lifecycle Notes </h4>
 
 + Note 1: [Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle](https://github.com/reachchrisyoung/CTI-Lifecycle-Notes-1/tree/main?tab=readme-ov-file#readme) - Chris Cochran, Gary Ruddell & Recorded Future
+
+<h3> 📲 OSINT</h3>
+
+- [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b>
 
 <h3> Report Samples </h3>
 
@@ -94,32 +121,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h3> 📚 Readings </h3>
 
-- Recorded Future | Threat Intelligence Handbook: Cyber Kill Chain, Diamond Model & MITRE ATT&CK Framework
-
-<h3>CTI Reporting Methodologies</h3>
-
-- Crafted [General CTI Reporting Methodology](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme) Documentation (following CISA's [Introduction to Cyber Intelligence](https://fedvte.usalearning.gov/publiccourses/ici/iciframe.php) on FedVTE)
-
-- [Threat Actor Profile Methodology]
-
-<h3> 📜 CTI Report Outline</h3>
-
-- [CTI Report Outline](https://github.com/reachchrisyoung/CTI-Report-Outline)
-
-<h3> 📃 Drafting Templates </h3>
-
-- [CTI Standard Template](https://github.com/reachchrisyoung/CTI-Standard-Template) <br />
-- [CTI Short Template](https://github.com/reachchrisyoung/CTI-Short-Template)<br />
-
-<h3> 🤖 CTI Co-A.I. Reporting </h3>
-
-- [CTI Reports with AI Support](https://github.com/reachchrisyoung/CTI-Reports-AI-Support)
-
-+ Coming Soon... - Write-Up: Review of Incorporating CTI Report Drafting w/ChatGPT
-
-<h3> 📲 OSINT</h3>
-
-- [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b>
+- Recorded Future | Threat Intelligence Handbook: Relevance of the Cyber Kill Chain, Diamond Model & MITRE ATT&CK Framework
 
 <h2>Philosophy Writings</h2>
 
