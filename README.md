@@ -50,7 +50,9 @@ Hands-on Labs in: <br />
 + Biases in cyber threat intelligence.
 
 [Foundation Level Threat Intelligence Analyst Certification](https://arcx.io/courses/cyber-threat-intelligence-101) | <b>ArcX</b><br />
-Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface. Threat intelligence lifecycle, how organizations utilize intelligence, and guidance on legal & ethical considerations around CTI.<br />
++ Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface.
++ Threat intelligence lifecycle and how organizations utilize intelligence.
++ Guidance on legal & ethical considerations around CTI.<br />
 <br />
 [Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br />
 Common vulnerabilities leading to compromise relative to NIST CSF.  Threat exposure management encompassing attack surface, vulnerabilities, validation & prioritization.  Maturing posture in the lens of GRC, SOC, CEH & the CISO/Board.<br />
@@ -66,6 +68,7 @@ Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (Ti
 <br />
 Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 Intelligence Fundamentals Certification | <b>Recorded Future</b><br/>
+Foundations of Operationalizing MTRE ATT&CK v13 | <b> ATT&CK IQ Academy</b>
 Fundamentals of Dark Web | <b>SOCRadar</b>
 
 <h3> 🎤 Conferences Attended</h3>
