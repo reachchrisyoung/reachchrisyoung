@@ -107,6 +107,8 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 + Note 1: [Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle](https://github.com/reachchrisyoung/CTI-Lifecycle-Notes-1/tree/main?tab=readme-ov-file#readme) - Chris Cochran, Gary Ruddell & Recorded Future
 
+![3ctilifecyclemodels](https://github.com/reachchrisyoung/reachchrisyoung/assets/104402775/cbe73a4a-c39b-4750-9c8a-ce551bfff56a)
+
 <h3> 📲 OSINT</h3>
 
 - [Write Up - Intro. to OSINT | Security Blue Team] - <b>Coming Soon...</b>
