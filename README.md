@@ -66,10 +66,11 @@ Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (Ti
 <br />
 Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
 <br />
-Intelligence Fundamentals Certification | <b>Recorded Future</b><br/>
+[Intelligence Fundamentals Certification](https://university.recordedfuture.com/page/intelligence-fundamentals-certification) | <b>Recorded Future</b><br/>
 AIMS (Audience, Issue or Intelligence Question, message, and Storyline), the analytic spectrum, different types & sources of intel, and the intelligence lifecycle. <br />
 <br />
-Foundations of Operationalizing MTRE ATT&CK v13 | <b> ATT&CK IQ Academy</b><br />
+
+[Foundations of Operationalizing MTRE ATT&CK v13](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13) | <b> ATT&CK IQ Academy</b><br />
 + Use of ATT&CK Matrices to identify and mitigate threats
 + Leverage data sources, threat intelligence, and tools to operationalize ATT&CK
 + Methodology for analysis of cyber threat intelligence utilizing ATT&CK
@@ -77,7 +78,7 @@ Foundations of Operationalizing MTRE ATT&CK v13 | <b> ATT&CK IQ Academy</b><br /
 + Using the MITRE ATT&CK framework to defend against cyber threats
 + Tactics, techniques, and procedures (TTPs) used by cyber adversaries
 
-Fundamentals of Dark Web | <b>SOCRadar</b>
+[Fundamentals of Dark Web](https://academy.socradar.io/course/dark-web-training) | <b>SOCRadar</b>
 + Differentiating between (a) Surface Web, (b) Deep Web, and (c) Dark Web
 + Accessing the Dark Web (Tor vs I2P vs FreeNet)
 + Aspects to the Dark Web (Marketplaces, index prices, forums & communities, myths & facts)
