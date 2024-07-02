@@ -64,7 +64,9 @@ Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (Ti
 <br />
 <b>In Progress</b> <br />
 <br />
-Certified Cyber Threat Intelligence Analyst | <b>CISA</b>
+Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
+Intelligence Fundamentals Certification | <b>Recorded Future</b><br/>
+Fundamentals of Dark Web | <b>SOCRadar</b>
 
 <h3> 🎤 Conferences Attended</h3>
 
