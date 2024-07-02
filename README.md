@@ -54,7 +54,7 @@ Hands-on Labs in: <br />
 + Threat intelligence lifecycle and how organizations utilize intelligence.
 + Guidance on legal & ethical considerations around CTI.<br />
 <br />
-[Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br />
+[Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br /> 
 Common vulnerabilities leading to compromise relative to NIST CSF.  Threat exposure management encompassing attack surface, vulnerabilities, validation & prioritization.  Maturing posture in the lens of GRC, SOC, CEH & the CISO/Board.<br />
 <br />
 [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE) | <b>CISA</b><br />
