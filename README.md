@@ -61,8 +61,10 @@ Common vulnerabilities leading to compromise relative to NIST CSF.  Threat expos
  <br />
 [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
 Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (TinyEye, Google Image Search).<br />
+<br />
 <b>In Progress</b> <br />
-Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
+<br />
+Certified Cyber Threat Intelligence Analyst | <b>CISA</b>
 
 <h3> 🎤 Conferences Attended</h3>
 
