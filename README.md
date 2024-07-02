@@ -50,9 +50,7 @@ Hands-on Labs in: <br />
 + Biases in cyber threat intelligence.
 
 [Foundation Level Threat Intelligence Analyst Certification](https://arcx.io/courses/cyber-threat-intelligence-101) | <b>ArcX</b><br />
-+ Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface.
-+ Threat intelligence lifecycle and how organizations utilize intelligence.
-+ Guidance on legal & ethical considerations around CTI.<br />
+Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface.  The threat intelligence lifecycle and how organizations utilize intelligence.  Guidance on legal & ethical considerations around CTI.<br />
 <br />
 [Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br /> 
 Common vulnerabilities leading to compromise relative to NIST CSF.  Threat exposure management encompassing attack surface, vulnerabilities, validation & prioritization.  Maturing posture in the lens of GRC, SOC, CEH & the CISO/Board.<br />
@@ -67,9 +65,23 @@ Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (Ti
 <b>In Progress</b> <br />
 <br />
 Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
+<br />
 Intelligence Fundamentals Certification | <b>Recorded Future</b><br/>
+AIMS (Audience, Issue or Intelligence Question, message, and Storyline), the analytic spectrum, different types & sources of intel, and the intelligence lifecycle. <br />
+<br />
 Foundations of Operationalizing MTRE ATT&CK v13 | <b> ATT&CK IQ Academy</b><br />
++ Use of ATT&CK Matrices to identify and mitigate threats
++ Leverage data sources, threat intelligence, and tools to operationalize ATT&CK
++ Methodology for analysis of cyber threat intelligence utilizing ATT&CK
++ Outlining what threat-informed defense is and how it relates to ATT&CK
++ Using the MITRE ATT&CK framework to defend against cyber threats
++ Tactics, techniques, and procedures (TTPs) used by cyber adversaries
+
 Fundamentals of Dark Web | <b>SOCRadar</b>
++ Differentiating between (a) Surface Web, (b) Deep Web, and (c) Dark Web
++ Accessing the Dark Web (Tor vs I2P vs FreeNet)
++ Aspects to the Dark Web (Marketplaces, index prices, forums & communities, myths & facts)
++ Cyber Threats on The Dark Web
 
 <h3> 🎤 Conferences Attended</h3>
 
