@@ -436,7 +436,9 @@ NIST SP 800-53B - [Control Baselines for Information Systems and Organizations I
 [Sample Video](https://youtu.be/nv1elFroqCo) <== CLICK HERE TO VIEW!  <br />
 <br />
 
-Write-up -- coming soon
+view the Write-Up -- [CLICK HERE](https://github.com/reachchrisyoung/AWS-S3-Buckets-SEGA-Story?tab=readme-ov-file#readme)
+<br />
+<br />
 
 ![AWS S3 Buckets Just-in-Time Cybersecurity Awareness](https://github.com/reachchrisyoung/reachchrisyoung/assets/104402775/8c8915f1-09a7-4c57-a6dd-fa1c3eccf16e)
 
