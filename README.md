@@ -429,14 +429,13 @@ NIST SP 800-53B - [Control Baselines for Information Systems and Organizations I
 + [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
   + Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
 
-<h3>Cybersecuity Awareness</h3>
+<h3>Cybersecuity Awareness Sample</h3>
 
 + AWS S3 Buckets | Just-in-Time Cybersecurity Awareness
 
 [Sample Video](https://youtu.be/nv1elFroqCo) <== CLICK HERE TO VIEW!  <br />
-<br />
 
-view the Write-Up -- [CLICK HERE](https://github.com/reachchrisyoung/AWS-S3-Buckets-SEGA-Story?tab=readme-ov-file#readme)
+[Write-Up](https://github.com/reachchrisyoung/AWS-S3-Buckets-SEGA-Story?tab=readme-ov-file#readme)
 <br />
 <br />
 
