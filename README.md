@@ -364,11 +364,17 @@ Hands-on labs introducing red and blue team topics, including:
 
 <b>Simply Cyber</b> | [The Definitive GRC Analyst Masterclass](https://drive.google.com/file/d/10PvhJuFE42w9Mq4-OV45lYcwdMSvN3Af/view?usp=sharing)<b><i>- Gerald Auger, Ph.D</b></i><br />
 Hands-on Labs provided insight beyond hacking, discovering what organizations utilize to limit core technology access.<br />
++ Compliance/Audit
+  + Prepared, executed, and reported on audit of subset of NIST SP 800-53 and NIST CSF cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities.
+  + Knowledgeable on NIST Cybersecurity Framework and how the Identify, Protect, Detect, Respond, and Recover categories comprise and facilitate an information security program.
+
 + Cybersecurity Risk
   + Semi-quantitative risk analysis using NIST SP 800-30 methodology to identify system weaknesses.
   + Executed threat modeling exercise to determine higher likelihood threats informing risk modeling.
-+ Compliance/Audit
-  + Prepared, executed, and reported on audit of subset of NIST SP 800-53 controls and NIST CSF.
+ 
++ Cybersecurity Awareness
+  + Developed concise, tailored cybersecurity awareness content, improving targeted end-user base cyber hygiene.
+  + Developed Just-In-Time cybersecurity awareness content for emerging threats to reduce operational risk to tailored audiences.
 
 <h4>NIST Risk Management Framework (RMF) Credentials</h4>
 
@@ -422,6 +428,20 @@ NIST SP 800-53B - [Control Baselines for Information Systems and Organizations I
 
 + [NIST 800-37 Risk Management Framework](https://www.canva.com/design/DAF2boPx2qA/JBfL3WhdE3fm1exsO16lIA/edit?utm_content=DAF2boPx2qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | <b><i>Published Image (Internet Accessible).</b></i>
   + Consulted industry experts to link RMF tasks and NIST Special Publications, such as 800-60, 800-53A, etc.<br />
+
+<h3>Cybersecuity Awareness</h3>
+
++ AWS S3 Buckets | Just-in-Time Cybersecurity Awareness
+
+[Sample Video](https://youtu.be/nv1elFroqCo) <== CLICK HERE TO VIEW!  <br />
+<br />
+
+Write-up -- coming soon
+
+![AWS S3 Buckets Just-in-Time Cybersecurity Awareness](https://github.com/reachchrisyoung/reachchrisyoung/assets/104402775/8c8915f1-09a7-4c57-a6dd-fa1c3eccf16e)
+
+<br />
+<br />
 
 [CHECKOUT MY PORTFOLIO LINKS](https://github.com/reachchrisyoung#hi-im-chris-)
 
