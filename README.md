@@ -53,22 +53,36 @@ Hands-on Labs in: <br />
 [Foundation Level Threat Intelligence Analyst Certification](https://arcx.io/courses/cyber-threat-intelligence-101) | <b>ArcX</b><br />
 Covered types of threat vectors & vulnerabilities from an organization’s perspective, and corporate attack surface.  The threat intelligence lifecycle and how organizations utilize intelligence.  Guidance on legal & ethical considerations around CTI.<br />
 <br />
-[Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br /> 
-Common vulnerabilities leading to compromise relative to NIST CSF.  Threat exposure management encompassing attack surface, vulnerabilities, validation & prioritization.  Maturing posture in the lens of GRC, SOC, CEH & the CISO/Board.<br />
+
+[Intelligence Fundamentals Certification](https://university.recordedfuture.com/page/intelligence-fundamentals-certification) | <b>Recorded Future</b><br/>
++ AIMS (Audience, Issue or Intelligence Question, message, and Storyline)
++ The analytic spectrum <br />
++ Different types & sources of intelligence
++ The intelligence lifecycle
+
 <br />
+
 [Introduction to Cyber Intelligence](https://drive.google.com/file/d/1TxTQ6n2l3qQTfTKCbXxAEYou_e-l0Hgl/view?usp=sharing) (ICW FedVTE) | <b>CISA</b><br />
 <br />
+
 [Cyber Threat Intelligence](https://drive.google.com/file/d/1aryRev5p8gS0RG8fvgHT7A5-si1WYxy9/view?usp=sharing) | <b>IBM</b><br />
  <br />
+ 
 [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
 Hands-on practice in TweetDeck, Google Dorks, and image search & recognition (TinyEye, Google Image Search).<br />
 <br />
+
+[Fundamentals of Dark Web](https://academy.socradar.io/course/dark-web-training) | <b>SOCRadar</b>
++ Differentiating between (a) Surface Web, (b) Deep Web, and (c) Dark Web
++ Accessing the Dark Web (Tor vs I2P vs FreeNet)
++ Aspects of the Dark Web (Marketplaces, index prices, forums & communities, myths & facts)
++ Cyber Threats on The Dark Web
+
+[Exposure Management Certification](https://xm-cyber.thinkific.com/courses/exposure-management-certification) – Gerald Auger, Ph.D | <b>XM Cyber</b><br /> 
+Common vulnerabilities leading to compromise relative to NIST CSF.  Threat exposure management encompassing attack surface, vulnerabilities, validation & prioritization.  Maturing posture in the lens of GRC, SOC, CEH & the CISO/Board.<br />
+<br />
+
 <b>In Progress</b> <br />
-<br />
-Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
-<br />
-[Intelligence Fundamentals Certification](https://university.recordedfuture.com/page/intelligence-fundamentals-certification) | <b>Recorded Future</b><br/>
-AIMS (Audience, Issue or Intelligence Question, message, and Storyline), the analytic spectrum, different types & sources of intel, and the intelligence lifecycle. <br />
 <br />
 
 [Foundations of Operationalizing MTRE ATT&CK v13](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13) | <b> ATT&CK IQ Academy</b><br />
@@ -79,11 +93,8 @@ AIMS (Audience, Issue or Intelligence Question, message, and Storyline), the ana
 + Using the MITRE ATT&CK framework to defend against cyber threats
 + Tactics, techniques, and procedures (TTPs) used by cyber adversaries
 
-[Fundamentals of Dark Web](https://academy.socradar.io/course/dark-web-training) | <b>SOCRadar</b>
-+ Differentiating between (a) Surface Web, (b) Deep Web, and (c) Dark Web
-+ Accessing the Dark Web (Tor vs I2P vs FreeNet)
-+ Aspects to the Dark Web (Marketplaces, index prices, forums & communities, myths & facts)
-+ Cyber Threats on The Dark Web
+Certified Cyber Threat Intelligence Analyst | <b>CISA</b><br />
+<br />
 
 <h3> 🎤 Conferences Attended</h3>
 
