@@ -2,7 +2,7 @@
 
 Helping local businesses stop cyber attacks through Cyber Threat Intelligence & OSINT.  1 Dept. of State MSG tour, 1 combat tour, expired clearance, and experienced in confidentiality, handling sensitive information, & data privacy management. <br />
 <br />
-<b>PORTFOLIO LINKS</b> ➡ [TryHackMe](https://tryhackme.com/p/reachchrisyoung) - Top 8% | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) | [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
+<b>PORTFOLIO LINKS</b> ➡ [TryHackMe](https://tryhackme.com/p/reachchrisyoung) | [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) | [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
 <h3>Summary of Contents</h3>
 
