@@ -204,13 +204,13 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 -------------------------------------------
 -------------------------------------------
 
-<h2> 💻 Pentesting</h2>
+<h2> 💻 Pentesting & Red Teaming</h2>
 
 <h3> 📜 Credentials</h3>
 
-[SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br /> <br />
-[Python (Basic) Certificate](https://drive.google.com/file/d/1dPNBanbf5HWSu_nZ11aR0e7LVEVxrcH5/view?usp=sharing) | <b>HackerRank</b><br /> <br />
-[Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b><br />
+[SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br />
+[Python (Basic) Certificate](https://drive.google.com/file/d/1dPNBanbf5HWSu_nZ11aR0e7LVEVxrcH5/view?usp=sharing) | <b>HackerRank</b><br />
+[Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b>
 
 
 <h3> 💲 Career Training</h3>
@@ -222,7 +222,7 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 [Active Defense & Cyber Deception](https://www.antisyphontraining.com/live-courses-catalog/active-defense-cyber-deception-w-john-strand/) | <b>Antisyphon Training</b> - John Strand <br />
 [Cyber Threat Hunting](https://www.activecountermeasures.com/hunt-training/) | <b>Active Countermeasures</b> - Chris Brenton <br />
 <br />
-Labs from [Cyber101] | <b>Simply Cyber</b> - Gerald Auger, Ph.D <br />
+Labs from [Cyber101](https://academy.simplycyber.io/p/introduction-to-cybersecurity-101) | <b>Simply Cyber</b> - Gerald Auger, Ph.D <br />
 
 + Using NMAP for Network and System Reconnaissance
   + Generalized implementation > Scan all ports
