@@ -208,18 +208,52 @@ VetSec Con 2023 | <b>VetSec</b> ([VetSec.org](https://vetsec.org/)) <br />
 
 <h3> 📜 Credentials</h3>
 
-[SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br />
-[Python (Basic) Certificate](https://drive.google.com/file/d/1dPNBanbf5HWSu_nZ11aR0e7LVEVxrcH5/view?usp=sharing) | <b>HackerRank</b><br />
+[SQL (Advanced) Certificate](https://drive.google.com/file/d/12zPHg_l3yAlJdxX9qvYeuN51xQ9ZDkZj/view?usp=sharing) | <b>HackerRank</b><br /> <br />
+[Python (Basic) Certificate](https://drive.google.com/file/d/1dPNBanbf5HWSu_nZ11aR0e7LVEVxrcH5/view?usp=sharing) | <b>HackerRank</b><br /> <br />
 [Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/13fjSVS1HuPCrr6b0Ol30ZFJkXywmXR26/view?usp=sharing) | <b>EC-Council</b><br />
+
 
 <h3> 💲 Career Training</h3>
 
 [SQL Injection Attacks](https://drive.google.com/file/d/1CbDCnEyVDam2YR5NWhiEwtqWKZucR_EQ/view?usp=sharing) | <b>EC-Council</b><br />
 [Python for Absolute Beginners](https://drive.google.com/file/d/1jPw6_a22-VRNAhy3VABpwrh5v-K2JBLu/view?usp=sharing) | <b>EC-Council</b><br />
 [Introduction to OSINT](https://drive.google.com/file/d/1uh2FandD8Nl_quxrIMYLjDLuVEIXmGf8/view?usp=sharing) | <b>Security Blue Team</b><br />
+[Linux Command Line](https://taggartinstitute.org/p/intro-to-the-linux-command-line) | <b>The Taggart Institute</b> - Michael Taggart <br />
+[Active Defense & Cyber Deception](https://www.antisyphontraining.com/live-courses-catalog/active-defense-cyber-deception-w-john-strand/) | <b>Antisyphon Training</b> - John Strand <br />
+[Cyber Threat Hunting](https://www.activecountermeasures.com/hunt-training/) | <b>Active Countermeasures</b> - Chris Brenton <br />
+<br />
+Labs from [Cyber101] | <b>Simply Cyber</b> - Gerald Auger, Ph.D <br />
+
++ Using NMAP for Network and System Reconnaissance
+  + Generalized implementation > Scan all ports
+  + Attempted to identify services running on the ports aforementioned
+  + Ran scripts to gather more information for services on said ports
++ Phishing Toolkit to Harvest Credentials
++ Deploying & Detecting Rootkit Malware with RKhunter for detection -- scanning for rootkits & backdoors
++ Configuring a Firewall
+  + iptables and their capabilities as a firewall
+  + Security policy and firewall rules, and their place in managing traffic to enhance network security
+  + Troubleshoot firewall configuration & network connectivity
++ System Auditing with Lynis
+  + Password and audit policies in Windows OS
+  + Configure password policies, expiration requirements, and weak password usage prevention
+  + Configure audit policies to track & log specific security-related events, aiding in the monitoring and investigation of unauthorized or suspicious activities
+  + Test system response to policy violations & review audit logs for recorded events
+  + Troubleshoot policy-related issues and analyze the effectiveness of said policies
++ Vulnerability Scanning a System with Tenable Nessus
+  + Set up & configure a vulnerability scanner
+  + Conduct a system scan
+  + Review and analyze scan reports
+
 <br />
 <b>In Progress</b><br />
 [Practical Web Application Security and Testing](https://taggartinstitute.org/p/pwst) | <b>TCM Security Academy</b> and <b>TTi</b> - Michael Taggart <br />
+[Responsible Red Teaming](https://taggartinstitute.org/p/responsible-red-teaming) | <b>The Taggart Institute</b> - Michael Kiely,  <br />
+[Binary Exploitation] (https://taggartinstitute.org/p/an-oral-history-of-binary-exploitation-defenses) | <b>The Taggart Institute</b> <br />
+[Container Essentials: Deploy, Build, Scale](https://taggartinstitute.org/p/container-essentials) | <b>The Taggart Institute</b> - Michael Taggart <br /> <br />
+[VIM for Everyone: Text Empowered](https://taggartinstitute.org/p/vim-for-everyone) | <b>The Taggart Institute</b> <br />
+For Review: [Server-side Vulnerabilities] | <b>Portswigger</b> <br />
+[API Security Fundamentals] | <b>APISec University</b> <br />
 [Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) | <b>Dr. Angela Yu</b> <br />
 
 <h3> 📝 Write Ups</h3>
