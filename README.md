@@ -6,10 +6,10 @@
 #### SQL Portfolio - [Click Here to View](https://github.com/reachchrisyoung/SQL)
 
 ### Data Analytics & Visualization
-#### Tableau Portfolio - [Click Here to View](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
++ #### Tableau Portfolio - [Click Here to View](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
 
 ### Credentials
-#### Credly - [Click Here to View](https://www.credly.com/users/christopher-young.6e05f908/badges)
++ #### Credly - [Click Here to View](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
 <h3>Summary of Contents</h3>
 
