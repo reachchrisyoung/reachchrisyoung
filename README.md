@@ -1,10 +1,14 @@
 <h1>Hi, I'm Chris! </h1>
 
-### PORTFOLIO LINKS
+### Coding / Programming
 ➡ [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Star Rating), Python (2 Star Rating) <br />
 [Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)<br />
-[SQL Portfolio](https://github.com/reachchrisyoung/SQL)<br />
-[Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)<br />
+[SQL Portfolio](https://github.com/reachchrisyoung/SQL)
+
+### Data Analytics & Visualization
+[Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
+
+### Credentials
 [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
 <h3>Summary of Contents</h3>
