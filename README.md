@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chris! </h1>
 
 ### Coding / Programming
-➡ [HackerRank Profile](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Star Rated), Python (2 Star Rated) <br />
+➡ [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - Ratings: SQL (3 Star), Python (2 Star<br />
 + #### Python Portfolio - [Click Here to View](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
 + #### SQL Portfolio - [Click Here to View](https://github.com/reachchrisyoung/SQL)
 
