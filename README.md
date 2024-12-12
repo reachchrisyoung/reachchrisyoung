@@ -2,8 +2,8 @@
 
 ### Coding / Programming
 ➡ [HackerRank Profile](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Star Rating), Python (2 Star Rating) <br />
-#### Python Portfolio - [Click Here to View](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
-#### SQL Portfolio - [Click Here to View](https://github.com/reachchrisyoung/SQL)
++ #### Python Portfolio - [Click Here to View](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
++ #### SQL Portfolio - [Click Here to View](https://github.com/reachchrisyoung/SQL)
 
 ### Data Analytics & Visualization
 + #### Tableau Portfolio - [Click Here to View](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
