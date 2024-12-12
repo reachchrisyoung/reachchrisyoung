@@ -2,7 +2,10 @@
 
 ### PORTFOLIO LINKS
 ➡ [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Star Rating), Python (2 Star Rating) <br />
-[Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme) | [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
+[Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)<br />
+[SQL Portfolio](https://github.com/reachchrisyoung/SQL)<br />
+[Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)<br />
+[Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
 <h3>Summary of Contents</h3>
 
