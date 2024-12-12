@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris! </h1>
 
-<b>PORTFOLIO LINKS</b> ➡ [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Stars), Python (2 Stars) | [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
+<b>PORTFOLIO LINKS</b> ➡ [HackerRank](https://www.hackerrank.com/profile/reachchrisyoung) - SQL (3 Star Rating), Python (2 Star Rating) | [Python Portfolio](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme) | [SQL Portfolio](https://github.com/reachchrisyoung/SQL) | [Tableau Portfolio](https://public.tableau.com/app/profile/reachchrisyoung/vizzes) | [Credly](https://www.credly.com/users/christopher-young.6e05f908/badges)
 
 <h3>Summary of Contents</h3>
 
