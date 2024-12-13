@@ -5,7 +5,7 @@
 + #### Python Portfolio - [Click Here to View](https://github.com/reachchrisyoung/Python-Portfolio/tree/main?tab=readme-ov-file#readme)
 
 ### Data Analytics & Visualization
-+ #### SQL Portfolio - [Click Here to View](https://github.com/reachchrisyoung/SQL)
++ #### SQL Portfolio - [Click Here to View](https://github.com/reachchrisyoung/SQL?tab=readme-ov-file#readme)
 + #### Tableau Portfolio - [Click Here to View](https://public.tableau.com/app/profile/reachchrisyoung/vizzes)
 
 ### Credentials
